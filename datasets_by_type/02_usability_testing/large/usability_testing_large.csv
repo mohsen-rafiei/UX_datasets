@@ -1,0 +1,1001 @@
+Participant_ID,Task_Name,Task_Success,Completion_Time_s,Error_Count,Error_Type,Frustration_Level,Help_Requested,Moderator,Device_Type,Satisfaction_Score
+P0001,Account Setup,1.0,184.41940127810642,0.0,None,2.0,0.0,Mod_B,Mobile,7.0
+P0002,Account Setup,1.0,151.43134695091229,0.0,None,1.0,0.0,Mod_A,Desktop,
+P0003,Checkout,1.0,68.51684643322783,0.0,None,2.0,0.0,Mod_A,Desktop,7.0
+P0004,Checkout,1.0,187.01654023394624,3.0,System,3.0,0.0,Mod_A,Desktop,4.0
+P0005,Checkout,1.0,61.057095648726715,1.0,Navigation,1.0,0.0,Mod_C,Tablet,6.0
+P0006,Checkout,1.0,31.819548638645102,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0007,Account Setup,,216.7847920082735,8.0,System,,,Mod_B,Mobile,5.0
+P0008,Account Setup,1.0,32.8532514052991,1.0,Input,1.0,0.0,Mod_A,Tablet,7.0
+P0009,Account Setup,1.0,66.17153165153873,1.0,Navigation,1.0,0.0,Mod_B,Desktop,7.0
+P0010,Checkout,0.0,363.10514542231357,3.0,System,3.0,1.0,Mod_A,Tablet,6.0
+P0011,Payment,1.0,50.66873975729922,1.0,Input,1.0,0.0,,Desktop,4.0
+P0012,Account Setup,1.0,111.10081625558499,0.0,None,2.0,1.0,Mod_C,Desktop,3.0
+P0013,Product Search,1.0,17.1382707852974,1.0,Input,1.0,1.0,Mod_A,Tablet,3.0
+,Payment,1.0,18.4219368554903,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0015,Account Setup,1.0,52.76504418373262,2.0,System,3.0,0.0,Mod_A,Desktop,7.0
+P0016,Account Setup,1.0,12.215563962018193,0.0,None,2.0,0.0,Mod_C,Desktop,5.0
+P0017,Account Setup,1.0,50.33907179810539,2.0,Validation,1.0,1.0,Mod_C,Desktop,5.0
+P0018,,1.0,21.045133954535135,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0019,Checkout,1.0,20.109452313355785,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0020,Checkout,1.0,60.20798956066857,0.0,None,1.0,0.0,Mod_B,Mobile,7.0
+P0021,Account Setup,1.0,27.37523034417785,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0022,Payment,0.0,204.3361044404729,2.0,Input,4.0,0.0,Mod_A,Desktop,6.0
+P0023,Checkout,1.0,152.66209409250476,0.0,None,1.0,1.0,Mod_A,Desktop,6.0
+P0024,Product Search,1.0,58.08739895615716,0.0,None,2.0,0.0,Mod_A,Desktop,5.0
+P0025,Payment,1.0,12.021684916229825,0.0,None,2.0,1.0,Mod_B,Mobile,5.0
+P0026,Account Setup,1.0,12.785306361974706,1.0,System,1.0,1.0,Mod_B,Desktop,5.0
+P0027,Account Setup,1.0,50.52904126281286,1.0,Navigation,1.0,0.0,Mod_A,Mobile,4.0
+P0028,Product Search,1.0,70.49714979450151,2.0,System,1.0,0.0,Mod_B,Desktop,5.0
+P0029,Product Search,1.0,6.068684568932066,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0030,Checkout,1.0,40.825718391072144,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0031,Checkout,0.0,74.33326524493948,0.0,None,2.0,0.0,Mod_C,Mobile,6.0
+P0032,Account Setup,1.0,58.63797203615969,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0033,Product Search,1.0,85.66881664393865,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0034,Checkout,1.0,98.00755172880672,0.0,None,2.0,1.0,Mod_C,Mobile,4.0
+P0035,Account Setup,0.0,59.91029495655733,5.0,Validation,4.0,0.0,Mod_C,Desktop,5.0
+P0036,Account Setup,1.0,120.09833888741765,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0037,Checkout,1.0,23.42840854948167,1.0,Validation,1.0,0.0,Mod_A,Mobile,4.0
+P0038,Checkout,1.0,17.850106308681934,1.0,Validation,,1.0,Mod_A,Desktop,7.0
+P0039,Product Search,1.0,43.519851823200604,2.0,Validation,3.0,0.0,Mod_B,Desktop,4.0
+P0040,Checkout,1.0,35.27784551731583,0.0,None,1.0,0.0,Mod_C,Desktop,4.0
+P0041,Checkout,1.0,72.34086844976561,0.0,None,1.0,1.0,Mod_B,Desktop,4.0
+P0042,Account Setup,0.0,134.42619444063737,2.0,Validation,2.0,1.0,Mod_B,Tablet,7.0
+P0043,Product Search,1.0,36.43304244758594,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0044,Account Setup,0.0,47.61775737269905,3.0,System,5.0,0.0,Mod_B,Mobile,3.0
+P0045,Checkout,1.0,123.90220953402162,3.0,Input,2.0,0.0,Mod_C,Desktop,7.0
+P0046,Account Setup,0.0,44.407587382478354,4.0,System,3.0,0.0,Mod_C,Desktop,7.0
+P0047,Account Setup,1.0,68.286949045385,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0048,Checkout,1.0,71.64144371391579,0.0,,2.0,0.0,Mod_B,Tablet,4.0
+P0049,Checkout,1.0,46.519714939596845,0.0,None,2.0,0.0,Mod_B,Desktop,6.0
+P0050,Checkout,0.0,68.50527982941112,4.0,,4.0,0.0,Mod_B,Desktop,5.0
+P0051,,1.0,214.492228959741,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0052,Checkout,0.0,167.458767902854,0.0,None,1.0,1.0,Mod_C,Mobile,
+P0053,Account Setup,1.0,88.29394700773341,1.0,Validation,3.0,0.0,Mod_B,Desktop,5.0
+P0054,Checkout,0.0,69.05015327470255,0.0,None,3.0,0.0,,Desktop,6.0
+P0055,Checkout,0.0,179.9373180986588,3.0,Navigation,2.0,0.0,Mod_B,Desktop,7.0
+P0056,Product Search,0.0,263.9576872045128,2.0,Input,4.0,1.0,Mod_A,Tablet,6.0
+P0057,Account Setup,0.0,167.0110188275029,3.0,Input,3.0,0.0,Mod_C,Tablet,6.0
+P0058,Product Search,1.0,97.86925388185144,1.0,Navigation,1.0,0.0,Mod_C,Mobile,6.0
+P0059,Checkout,1.0,51.49449666543353,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0060,Payment,0.0,197.12320909816765,5.0,Validation,2.0,0.0,Mod_B,Desktop,5.0
+P0061,Checkout,1.0,120.28544122707515,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0062,Product Search,1.0,33.66164458179098,2.0,Navigation,1.0,0.0,Mod_A,Mobile,6.0
+P0063,Account Setup,1.0,72.78216248822199,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0064,Checkout,1.0,30.561225176706166,2.0,Navigation,2.0,0.0,Mod_C,Desktop,5.0
+P0065,Product Search,1.0,55.900019778967824,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0066,Account Setup,0.0,66.9605480125576,2.0,Validation,4.0,0.0,Mod_B,Desktop,6.0
+P0067,Checkout,1.0,14.374538162109388,0.0,None,1.0,0.0,Mod_B,Desktop,3.0
+P0068,Account Setup,1.0,21.61967641785933,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0069,Checkout,1.0,43.44614529976782,2.0,Navigation,3.0,0.0,Mod_A,Tablet,7.0
+P0070,Checkout,1.0,123.16278725262725,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+,Account Setup,1.0,213.32023325602077,0.0,None,2.0,0.0,Mod_B,Desktop,6.0
+P0072,Checkout,0.0,195.45361882027277,5.0,Input,5.0,0.0,Mod_C,Mobile,4.0
+P0073,Payment,1.0,112.76289752880118,0.0,None,1.0,,Mod_B,,3.0
+P0074,Account Setup,0.0,205.4705157774378,4.0,Navigation,,0.0,,Desktop,6.0
+,Checkout,1.0,8.695674892325174,0.0,None,2.0,,Mod_B,Tablet,4.0
+P0076,Checkout,1.0,49.541532277474126,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0077,Payment,0.0,204.22140092216856,3.0,Navigation,2.0,0.0,Mod_C,Tablet,7.0
+P0078,Account Setup,1.0,113.76951292460835,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0079,Account Setup,1.0,66.90794346389255,1.0,Input,1.0,0.0,Mod_B,Desktop,3.0
+P0080,Account Setup,0.0,16.02026895976397,4.0,Input,3.0,0.0,Mod_A,Desktop,5.0
+P0081,Payment,1.0,169.73883008995145,,None,1.0,1.0,Mod_C,Desktop,5.0
+P0082,Account Setup,1.0,69.71269131198565,1.0,Navigation,2.0,0.0,Mod_C,Tablet,7.0
+P0083,Product Search,1.0,38.67222653589126,2.0,System,2.0,0.0,Mod_A,Desktop,5.0
+P0084,Account Setup,1.0,16.22594627588433,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0085,Payment,1.0,40.988884111080694,2.0,Navigation,1.0,1.0,Mod_A,Desktop,6.0
+P0086,Account Setup,1.0,127.69645798893991,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0087,Account Setup,1.0,126.23596199208727,2.0,System,1.0,1.0,,Desktop,3.0
+P0088,Account Setup,1.0,20.663154636887043,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0089,Payment,1.0,87.79915968029086,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0090,,1.0,153.04266220764592,2.0,Navigation,3.0,0.0,Mod_B,Tablet,5.0
+P0091,Account Setup,0.0,230.22425220099655,4.0,System,3.0,0.0,Mod_A,Desktop,6.0
+P0092,,1.0,42.40846398308828,0.0,None,3.0,1.0,Mod_C,Mobile,5.0
+P0093,Account Setup,1.0,184.13714636638866,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0094,Product Search,1.0,132.3755234563685,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0095,Payment,1.0,210.5936738908443,2.0,System,2.0,0.0,Mod_A,Desktop,6.0
+P0096,Account Setup,1.0,56.48863524911361,0.0,None,1.0,1.0,Mod_A,,6.0
+P0097,Checkout,1.0,124.2743686449829,2.0,Validation,1.0,0.0,Mod_B,Tablet,6.0
+P0098,Account Setup,0.0,49.80264344115562,4.0,Input,2.0,0.0,Mod_C,Mobile,4.0
+P0099,Payment,1.0,96.9920198491724,,None,1.0,1.0,Mod_C,Desktop,5.0
+,Product Search,1.0,8.166923078804881,1.0,Input,1.0,0.0,Mod_C,Desktop,5.0
+P0101,Account Setup,1.0,40.20074330666431,0.0,None,1.0,1.0,Mod_A,Desktop,6.0
+P0102,Payment,1.0,50.43252311992444,3.0,System,2.0,0.0,Mod_B,Desktop,7.0
+P0103,Account Setup,1.0,44.098649074987065,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0104,Checkout,1.0,116.53336443186056,0.0,None,1.0,1.0,Mod_C,Desktop,
+P0105,Account Setup,1.0,55.619855730064614,2.0,Navigation,1.0,1.0,Mod_A,Tablet,4.0
+P0106,Payment,0.0,138.57838393095267,1.0,Validation,1.0,1.0,Mod_A,Desktop,6.0
+P0107,Checkout,1.0,127.92427170843219,0.0,None,1.0,0.0,Mod_A,Tablet,4.0
+P0108,Payment,1.0,,0.0,None,3.0,0.0,Mod_C,Mobile,5.0
+P0109,Checkout,1.0,38.92529952909914,1.0,Input,1.0,0.0,Mod_B,Desktop,3.0
+P0110,Account Setup,1.0,137.46469606953445,0.0,None,3.0,0.0,Mod_A,Mobile,5.0
+P0111,Account Setup,1.0,45.67721394994909,1.0,Input,2.0,0.0,Mod_B,Desktop,5.0
+P0112,Account Setup,1.0,37.1425806932522,1.0,Input,1.0,1.0,Mod_C,Mobile,4.0
+P0113,Product Search,1.0,74.67091700531617,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0114,Account Setup,1.0,26.5308174296434,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0115,Payment,1.0,127.61395995785038,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0116,Account Setup,1.0,168.3841415386958,1.0,Input,3.0,0.0,Mod_C,Desktop,
+P0117,Payment,1.0,57.0979798008653,1.0,Validation,2.0,0.0,Mod_C,Tablet,5.0
+P0118,Payment,0.0,35.02145961381124,3.0,,2.0,0.0,Mod_A,Mobile,6.0
+P0119,Account Setup,1.0,86.55838663013681,0.0,None,1.0,0.0,Mod_B,Tablet,7.0
+P0120,Payment,1.0,46.21302517720085,0.0,None,3.0,1.0,Mod_C,Tablet,7.0
+P0121,Product Search,1.0,40.23730099699616,0.0,None,1.0,1.0,Mod_C,Mobile,7.0
+P0122,Product Search,0.0,54.882795384469844,3.0,Navigation,2.0,1.0,Mod_C,Desktop,3.0
+P0123,Checkout,1.0,51.705820881509126,2.0,System,3.0,0.0,Mod_A,Tablet,7.0
+P0124,Account Setup,1.0,30.505929245385,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+P0125,Product Search,1.0,105.3290930986787,0.0,None,1.0,0.0,Mod_C,Mobile,4.0
+P0126,Product Search,1.0,214.72321240295167,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0127,Checkout,0.0,31.432633147695014,3.0,System,1.0,1.0,Mod_B,Desktop,3.0
+P0128,Checkout,1.0,56.68034619021786,0.0,None,2.0,1.0,Mod_A,Mobile,7.0
+P0129,Checkout,1.0,56.172860829482154,1.0,Input,3.0,0.0,Mod_B,Desktop,4.0
+P0130,Product Search,1.0,42.0150019273802,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0131,Payment,1.0,16.49048172610569,0.0,None,2.0,0.0,Mod_A,Tablet,6.0
+P0132,Payment,0.0,79.33969946996325,5.0,Validation,4.0,0.0,Mod_B,Mobile,6.0
+P0133,Checkout,0.0,86.7263860245286,5.0,Input,4.0,1.0,Mod_A,Desktop,5.0
+P0134,Payment,1.0,54.30435249122035,2.0,Navigation,3.0,1.0,Mod_A,Desktop,6.0
+P0135,Checkout,1.0,47.50654268376285,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0136,Account Setup,1.0,129.8354976550088,2.0,System,1.0,1.0,Mod_B,Mobile,7.0
+P0137,Account Setup,1.0,99.4193661929335,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0138,Account Setup,1.0,18.389785524018937,1.0,Navigation,1.0,1.0,Mod_B,Desktop,5.0
+P0139,Checkout,,30.43308789645158,1.0,Navigation,1.0,1.0,Mod_C,Tablet,6.0
+P0140,Product Search,1.0,17.589252003326603,3.0,Validation,4.0,1.0,Mod_C,Desktop,7.0
+P0141,Account Setup,1.0,28.35531941540033,1.0,Navigation,1.0,0.0,Mod_A,Desktop,7.0
+P0142,Checkout,0.0,56.45904589811386,1.0,Navigation,2.0,1.0,Mod_C,Desktop,7.0
+P0143,Payment,1.0,81.63959895292446,0.0,None,1.0,0.0,Mod_C,Mobile,7.0
+P0144,,1.0,68.62396265991002,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0145,Checkout,0.0,40.50495549479176,4.0,Navigation,4.0,0.0,,Mobile,5.0
+P0146,Account Setup,1.0,169.23994879354453,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0147,Product Search,1.0,128.9567834617132,2.0,Input,2.0,1.0,Mod_C,Desktop,6.0
+P0148,Account Setup,1.0,59.57437560500208,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0149,Payment,1.0,61.850837396179806,3.0,System,,1.0,Mod_C,Tablet,7.0
+P0150,Checkout,1.0,168.48645174131573,1.0,Navigation,1.0,0.0,Mod_C,,6.0
+P0151,Account Setup,1.0,35.145670348450146,2.0,System,1.0,0.0,Mod_C,Desktop,7.0
+P0152,Checkout,1.0,53.06092491183896,3.0,System,1.0,1.0,Mod_C,Desktop,5.0
+P0153,Checkout,1.0,56.76013850010563,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0154,Checkout,1.0,31.17765125814715,1.0,Input,1.0,0.0,Mod_C,Mobile,6.0
+P0155,Payment,1.0,56.320456999627766,0.0,None,2.0,0.0,Mod_C,Desktop,4.0
+P0156,Checkout,1.0,17.830104556317657,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0157,Payment,1.0,33.63608203121997,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0158,Account Setup,1.0,148.52011488383485,0.0,None,1.0,1.0,Mod_A,Tablet,5.0
+P0159,Account Setup,0.0,27.301302445130876,4.0,Validation,4.0,0.0,Mod_C,Desktop,5.0
+P0160,Payment,1.0,47.236574938318405,0.0,None,1.0,1.0,Mod_A,Desktop,6.0
+P0161,Checkout,0.0,77.05370448650275,2.0,Navigation,1.0,1.0,Mod_C,Desktop,5.0
+P0162,Account Setup,0.0,,1.0,Navigation,1.0,1.0,Mod_A,Mobile,4.0
+P0163,Account Setup,1.0,102.65196424350515,1.0,Input,3.0,0.0,Mod_C,Tablet,6.0
+P0164,Account Setup,1.0,33.2634571911216,3.0,Validation,1.0,0.0,Mod_A,Mobile,6.0
+P0165,Payment,0.0,158.80415100011632,3.0,Input,3.0,0.0,Mod_A,,6.0
+P0166,Checkout,0.0,351.31441656262996,4.0,System,2.0,0.0,Mod_B,Desktop,5.0
+P0167,Payment,1.0,74.74457983999358,2.0,Input,3.0,0.0,Mod_B,Tablet,6.0
+P0168,Checkout,0.0,25.30611988728511,3.0,Navigation,2.0,0.0,Mod_C,Desktop,7.0
+,Account Setup,1.0,170.16758491352655,2.0,Input,1.0,0.0,Mod_A,Desktop,4.0
+P0170,Checkout,1.0,52.74406119938326,0.0,None,2.0,0.0,Mod_A,Desktop,7.0
+P0171,Account Setup,1.0,91.8276809275909,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0172,Product Search,1.0,39.370799582958725,1.0,System,1.0,1.0,Mod_A,Mobile,5.0
+P0173,Checkout,0.0,141.6230099647114,3.0,Input,3.0,0.0,Mod_B,Desktop,6.0
+P0174,Checkout,1.0,37.052774509968366,1.0,Validation,1.0,0.0,Mod_B,Mobile,7.0
+P0175,Account Setup,1.0,69.14424398170289,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0176,Account Setup,1.0,88.09132325023552,0.0,None,3.0,0.0,Mod_A,Tablet,6.0
+P0177,Payment,1.0,37.03684088305141,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0178,Product Search,1.0,99.32291160517812,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0179,Account Setup,1.0,55.13699480620433,0.0,None,1.0,0.0,Mod_A,Desktop,3.0
+P0180,Account Setup,1.0,14.351723730096653,1.0,Validation,2.0,1.0,Mod_B,Mobile,3.0
+P0181,Payment,1.0,73.76542016965935,0.0,None,3.0,1.0,Mod_C,Tablet,4.0
+P0182,Product Search,0.0,61.57634351807571,5.0,System,3.0,1.0,Mod_C,Desktop,6.0
+P0183,Checkout,0.0,38.743594273789355,,System,1.0,0.0,Mod_B,Tablet,6.0
+P0184,Account Setup,1.0,13.774782633222054,1.0,Navigation,1.0,0.0,Mod_A,Tablet,6.0
+P0185,Payment,1.0,127.63820559331886,1.0,Input,2.0,1.0,Mod_C,Mobile,6.0
+P0186,Payment,1.0,118.73036855123789,1.0,Input,1.0,0.0,Mod_B,Desktop,6.0
+P0187,Payment,0.0,51.08076350637078,3.0,Navigation,4.0,0.0,Mod_C,Desktop,6.0
+P0188,Checkout,0.0,59.38952096683573,5.0,System,4.0,0.0,Mod_A,Mobile,5.0
+P0189,Product Search,1.0,93.41946336178749,3.0,Navigation,3.0,1.0,Mod_C,Mobile,6.0
+P0190,Payment,1.0,26.632953323603566,1.0,Input,1.0,,Mod_A,Tablet,6.0
+P0191,Checkout,1.0,,1.0,Input,1.0,0.0,Mod_A,Desktop,6.0
+P0192,Checkout,1.0,73.4306916979971,0.0,None,2.0,1.0,Mod_A,Desktop,6.0
+P0193,Checkout,0.0,106.64190431006516,0.0,None,3.0,0.0,Mod_A,Tablet,6.0
+P0194,Checkout,0.0,167.52689485371204,3.0,Navigation,2.0,0.0,Mod_B,Mobile,5.0
+P0195,Payment,1.0,53.577490476331384,1.0,System,1.0,0.0,Mod_C,Desktop,4.0
+P0196,Account Setup,0.0,29.156889286433987,5.0,System,5.0,0.0,Mod_C,Mobile,6.0
+P0197,Payment,1.0,123.92130222515564,3.0,Navigation,1.0,0.0,Mod_A,Tablet,6.0
+P0198,Checkout,1.0,57.83557221446382,2.0,Navigation,1.0,1.0,Mod_A,Mobile,6.0
+P0199,Account Setup,1.0,6.339948274184902,,None,1.0,0.0,Mod_A,Tablet,4.0
+P0200,Account Setup,1.0,21.095431119308667,0.0,None,1.0,1.0,Mod_B,Desktop,5.0
+P0201,Account Setup,1.0,82.57889680188129,0.0,None,1.0,,Mod_A,Desktop,6.0
+P0202,Product Search,1.0,71.96356534839819,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0203,Checkout,1.0,112.93558908985463,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0204,Product Search,0.0,37.5212807835343,0.0,None,2.0,0.0,Mod_C,Mobile,
+P0205,Account Setup,1.0,43.20386024942783,1.0,Validation,1.0,0.0,Mod_B,Mobile,5.0
+P0206,Checkout,1.0,63.829948887502304,1.0,Navigation,3.0,1.0,Mod_C,Desktop,5.0
+P0207,Checkout,1.0,28.55803734349381,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0208,Checkout,1.0,151.96157166198532,0.0,None,1.0,0.0,Mod_C,Mobile,7.0
+P0209,Account Setup,1.0,130.7392523565741,2.0,Validation,3.0,1.0,Mod_B,Tablet,4.0
+P0210,Payment,1.0,196.61144713921155,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0211,Account Setup,,34.083454048505935,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0212,Account Setup,1.0,47.209796482835266,,None,1.0,0.0,Mod_C,Desktop,5.0
+P0213,Account Setup,1.0,38.349665187294846,1.0,,2.0,0.0,Mod_A,Mobile,5.0
+P0214,Checkout,1.0,347.3248180276192,1.0,Validation,2.0,1.0,Mod_A,Desktop,7.0
+P0215,Account Setup,1.0,15.861421561793508,0.0,,2.0,0.0,Mod_C,Desktop,4.0
+P0216,Account Setup,1.0,33.47994854779674,0.0,None,2.0,0.0,Mod_C,Desktop,7.0
+P0217,Account Setup,1.0,133.70473894211298,0.0,None,3.0,1.0,,,7.0
+P0218,Payment,1.0,21.192689707526927,0.0,None,2.0,0.0,Mod_A,Desktop,6.0
+P0219,Account Setup,1.0,51.62949972867661,0.0,None,3.0,0.0,Mod_B,Tablet,6.0
+P0220,Product Search,1.0,29.56434013089888,0.0,None,1.0,1.0,Mod_C,Desktop,4.0
+P0221,Product Search,1.0,15.305881043211032,0.0,None,1.0,1.0,Mod_A,Desktop,6.0
+P0222,Checkout,1.0,47.500276779327784,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0223,Checkout,1.0,52.007351904041705,2.0,,1.0,0.0,Mod_B,Desktop,4.0
+P0224,Product Search,1.0,236.5686121150771,2.0,Validation,2.0,1.0,Mod_C,Desktop,7.0
+P0225,Account Setup,0.0,112.58399758210524,5.0,Input,2.0,0.0,Mod_C,Desktop,5.0
+P0226,Product Search,1.0,84.36534740248968,0.0,None,1.0,0.0,Mod_B,Tablet,7.0
+P0227,Account Setup,1.0,,2.0,Validation,2.0,0.0,Mod_A,,7.0
+P0228,Product Search,1.0,16.99991455480006,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0229,Account Setup,1.0,19.980999804487958,1.0,Navigation,1.0,0.0,Mod_A,Mobile,6.0
+P0230,Checkout,1.0,111.54232896483883,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0231,Checkout,0.0,46.53345493237866,4.0,Validation,4.0,0.0,Mod_B,Desktop,6.0
+P0232,Checkout,1.0,209.88070822246257,1.0,Navigation,2.0,0.0,Mod_A,,7.0
+P0233,Checkout,1.0,22.130066459810983,0.0,None,2.0,0.0,Mod_A,Desktop,6.0
+P0234,Payment,1.0,138.44616073240064,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0235,Checkout,1.0,95.81953278961366,3.0,Input,1.0,1.0,Mod_B,Desktop,4.0
+P0236,Product Search,1.0,172.58048933308007,0.0,None,1.0,1.0,Mod_B,Desktop,3.0
+P0237,Checkout,1.0,57.83759712650092,0.0,None,3.0,0.0,Mod_B,Desktop,6.0
+P0238,Checkout,1.0,219.52663821231647,0.0,None,2.0,1.0,Mod_B,Desktop,3.0
+P0239,Checkout,1.0,48.24026625878471,1.0,Navigation,2.0,0.0,Mod_B,,6.0
+P0240,Account Setup,1.0,33.85246023059677,0.0,None,1.0,0.0,Mod_C,Desktop,4.0
+P0241,Product Search,1.0,116.85556750981688,1.0,Navigation,3.0,0.0,Mod_A,Tablet,6.0
+P0242,Payment,1.0,40.71582080798965,1.0,Validation,1.0,1.0,Mod_C,Desktop,5.0
+P0243,Product Search,1.0,160.1800754014059,0.0,None,2.0,1.0,Mod_A,Tablet,6.0
+P0244,Account Setup,1.0,32.786693777001396,0.0,None,1.0,0.0,,Tablet,5.0
+P0245,Product Search,1.0,143.39203438155496,1.0,System,1.0,1.0,Mod_C,Desktop,5.0
+P0246,Account Setup,0.0,39.17496683434338,2.0,Input,4.0,0.0,Mod_A,Mobile,6.0
+P0247,Checkout,0.0,245.0348779578717,3.0,Input,2.0,1.0,Mod_C,Tablet,6.0
+P0248,Payment,,153.41527680166757,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0249,Payment,1.0,43.29723738447187,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0250,Product Search,1.0,201.38205455180247,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0251,Checkout,1.0,41.7911072996837,2.0,Input,4.0,1.0,Mod_C,Tablet,7.0
+,Account Setup,1.0,30.617245862988977,1.0,Validation,1.0,1.0,Mod_A,Mobile,6.0
+P0253,Payment,1.0,248.2756170809211,1.0,Input,2.0,0.0,Mod_C,Mobile,6.0
+P0254,Checkout,1.0,65.49935358465784,,None,3.0,0.0,Mod_C,Desktop,4.0
+P0255,Checkout,1.0,96.0443815582965,0.0,None,2.0,1.0,,Tablet,4.0
+P0256,Checkout,1.0,63.12277496454226,0.0,None,2.0,0.0,Mod_B,Desktop,7.0
+P0257,Checkout,1.0,28.054789808235327,1.0,Navigation,1.0,0.0,Mod_A,Mobile,6.0
+P0258,Account Setup,1.0,150.42460563087474,1.0,System,1.0,0.0,Mod_A,Desktop,6.0
+P0259,Payment,1.0,37.0770760665433,0.0,None,1.0,0.0,Mod_C,Mobile,7.0
+P0260,Checkout,1.0,77.04348199662722,1.0,Navigation,1.0,1.0,Mod_C,Mobile,4.0
+P0261,Account Setup,1.0,117.5195907136839,0.0,None,1.0,0.0,Mod_A,,7.0
+P0262,Payment,,42.46252117692498,0.0,None,1.0,1.0,Mod_A,Mobile,6.0
+P0263,Account Setup,1.0,115.38655993449787,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0264,Checkout,0.0,76.46356758611905,3.0,Input,3.0,1.0,Mod_B,Desktop,7.0
+P0265,Payment,1.0,103.33683833415577,0.0,None,1.0,1.0,Mod_A,Desktop,6.0
+P0266,Product Search,1.0,57.77413946258785,1.0,System,2.0,0.0,Mod_A,Tablet,7.0
+P0267,Account Setup,1.0,83.0799697550112,0.0,None,3.0,0.0,Mod_B,Mobile,7.0
+P0268,Account Setup,0.0,206.34333946288643,3.0,Validation,1.0,1.0,Mod_B,Desktop,7.0
+P0269,Account Setup,1.0,23.378130126604283,1.0,Validation,1.0,0.0,Mod_C,Desktop,7.0
+P0270,Checkout,0.0,30.45282696215826,3.0,System,2.0,0.0,Mod_A,Mobile,7.0
+P0271,Checkout,1.0,54.367607126236095,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0272,Checkout,0.0,143.11156801171916,5.0,Validation,5.0,1.0,Mod_C,Tablet,6.0
+P0273,Checkout,1.0,45.256148458459045,2.0,Input,2.0,0.0,Mod_B,Desktop,6.0
+P0274,Product Search,0.0,31.68770059757326,4.0,,5.0,1.0,Mod_C,Desktop,6.0
+P0275,Payment,1.0,36.38240862322916,1.0,Navigation,1.0,1.0,Mod_B,Tablet,
+P0276,Checkout,0.0,382.86190855941953,3.0,Validation,3.0,0.0,Mod_A,Tablet,5.0
+P0277,Product Search,1.0,50.02622565811498,0.0,None,3.0,1.0,Mod_C,Mobile,5.0
+P0278,Payment,1.0,18.517884861932053,1.0,Validation,1.0,0.0,Mod_A,Tablet,
+P0279,Account Setup,1.0,41.17098817511664,2.0,System,1.0,0.0,Mod_C,Desktop,6.0
+P0280,Checkout,1.0,113.75071518539207,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0281,Payment,1.0,52.802911527042646,0.0,None,1.0,0.0,Mod_B,Mobile,7.0
+P0282,Payment,1.0,42.088164295033685,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0283,Checkout,0.0,61.586196063542275,1.0,Validation,2.0,0.0,Mod_B,Mobile,6.0
+P0284,Account Setup,1.0,56.727441644439374,,Input,1.0,0.0,Mod_B,Desktop,7.0
+P0285,Product Search,1.0,56.86336712145666,0.0,None,2.0,0.0,Mod_A,Desktop,3.0
+P0286,Product Search,1.0,24.258004556239662,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0287,Account Setup,1.0,43.93880766123463,1.0,Validation,3.0,0.0,Mod_A,Mobile,
+P0288,Checkout,1.0,59.84573703014307,0.0,None,1.0,,Mod_A,Desktop,4.0
+P0289,Account Setup,0.0,37.16554198433671,2.0,System,3.0,0.0,Mod_C,Desktop,5.0
+P0290,Account Setup,1.0,86.38985317881861,0.0,None,1.0,0.0,Mod_A,Tablet,7.0
+P0291,Checkout,0.0,208.46638983017112,0.0,None,4.0,1.0,Mod_B,Desktop,7.0
+P0292,Checkout,1.0,78.1791195447281,0.0,None,1.0,0.0,,Desktop,6.0
+P0293,Payment,1.0,20.154600837621995,1.0,Input,1.0,0.0,Mod_B,Desktop,5.0
+P0294,Account Setup,1.0,35.84965717477385,0.0,None,3.0,1.0,Mod_A,Desktop,5.0
+P0295,Checkout,1.0,88.94169032053021,0.0,None,2.0,0.0,Mod_B,Mobile,5.0
+P0296,Account Setup,1.0,38.31464380383953,0.0,None,1.0,1.0,Mod_C,Tablet,6.0
+P0297,Checkout,1.0,41.21859393606684,1.0,Navigation,1.0,0.0,Mod_C,Mobile,4.0
+P0298,Product Search,1.0,31.78526307081847,0.0,None,1.0,0.0,Mod_C,Tablet,6.0
+P0299,Payment,1.0,97.28146284290719,1.0,Input,1.0,0.0,Mod_C,Desktop,6.0
+P0300,Product Search,1.0,42.75725011328414,0.0,None,2.0,0.0,Mod_C,Desktop,3.0
+P0301,Account Setup,1.0,18.35890893055651,1.0,Input,2.0,0.0,Mod_B,Desktop,6.0
+P0302,Checkout,1.0,71.20562703496782,0.0,None,,1.0,Mod_B,Desktop,6.0
+P0303,Checkout,1.0,49.36738603476117,1.0,Input,1.0,0.0,Mod_C,Desktop,4.0
+P0304,Account Setup,0.0,104.71882558970177,6.0,System,5.0,0.0,Mod_A,,3.0
+P0305,Product Search,0.0,184.6941480310266,1.0,Validation,2.0,0.0,Mod_A,Desktop,6.0
+P0306,Payment,1.0,137.9023475232933,0.0,None,2.0,0.0,Mod_B,Tablet,7.0
+P0307,Account Setup,1.0,20.1300029656205,1.0,Validation,1.0,0.0,Mod_C,Desktop,6.0
+P0308,Checkout,1.0,140.25320292872044,1.0,Navigation,1.0,1.0,Mod_B,Mobile,6.0
+P0309,,1.0,67.60249796039574,0.0,None,3.0,1.0,Mod_A,Desktop,7.0
+P0310,Checkout,1.0,100.72930469815518,1.0,Input,1.0,1.0,Mod_B,Desktop,7.0
+P0311,Checkout,1.0,23.31896641609156,0.0,None,3.0,0.0,Mod_C,Desktop,5.0
+,Product Search,1.0,68.5216867900762,0.0,None,2.0,1.0,Mod_C,Mobile,4.0
+P0313,Checkout,1.0,76.75586085119654,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0314,Payment,0.0,157.9546769295637,3.0,Validation,2.0,0.0,Mod_C,Desktop,4.0
+P0315,Checkout,1.0,29.638320190476318,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+P0316,Checkout,1.0,78.393229702168,2.0,Validation,2.0,1.0,Mod_C,Desktop,3.0
+P0317,Payment,1.0,98.87389712904535,1.0,System,1.0,0.0,Mod_A,Desktop,7.0
+P0318,Account Setup,1.0,,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0319,Payment,1.0,32.22454364102432,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0320,Checkout,0.0,42.236499187854946,2.0,Input,3.0,,Mod_B,Mobile,6.0
+P0321,Checkout,1.0,77.07567703807378,2.0,Navigation,1.0,1.0,Mod_C,,5.0
+P0322,Checkout,1.0,94.89635211646673,0.0,None,3.0,0.0,Mod_B,Desktop,6.0
+P0323,Payment,1.0,69.51027425795728,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0324,Payment,,37.312393295232155,0.0,None,1.0,0.0,Mod_B,Tablet,5.0
+P0325,Product Search,1.0,,0.0,None,1.0,0.0,Mod_C,Tablet,6.0
+P0326,Account Setup,0.0,53.20035267891626,2.0,System,,,Mod_B,Desktop,5.0
+P0327,Checkout,1.0,74.32459278986919,1.0,System,1.0,0.0,Mod_C,Desktop,6.0
+P0328,Checkout,1.0,44.32438617898437,1.0,Validation,3.0,0.0,Mod_C,Desktop,5.0
+P0329,Payment,1.0,58.12902250758341,1.0,Navigation,1.0,0.0,Mod_A,Desktop,3.0
+P0330,Checkout,1.0,87.60730382779208,0.0,None,2.0,0.0,Mod_A,Desktop,3.0
+P0331,Checkout,1.0,33.349020551486646,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0332,Product Search,1.0,50.60791259273547,0.0,None,2.0,0.0,Mod_A,Mobile,6.0
+P0333,Checkout,1.0,,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0334,Product Search,1.0,48.2473492625125,0.0,None,1.0,0.0,,Mobile,5.0
+P0335,Product Search,1.0,113.84462964951767,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0336,Checkout,1.0,26.624276954859173,0.0,None,2.0,0.0,Mod_B,Desktop,6.0
+P0337,Account Setup,1.0,,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0338,Product Search,1.0,27.69550840000036,1.0,System,1.0,0.0,Mod_A,Desktop,5.0
+P0339,Checkout,1.0,21.179005783342,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+,Account Setup,1.0,48.232712632608674,0.0,None,1.0,1.0,Mod_A,Mobile,4.0
+P0341,Checkout,0.0,95.5554568789679,2.0,Input,3.0,0.0,Mod_B,Desktop,4.0
+P0342,Account Setup,1.0,46.13396314601464,1.0,Navigation,1.0,1.0,Mod_A,Desktop,5.0
+P0343,Product Search,1.0,91.07765977444005,0.0,None,1.0,1.0,Mod_C,Desktop,7.0
+P0344,Product Search,0.0,78.17049945621373,1.0,Input,2.0,0.0,Mod_A,Mobile,7.0
+P0345,Checkout,1.0,25.016958330155834,0.0,None,2.0,1.0,Mod_C,Tablet,4.0
+P0346,Product Search,1.0,36.89925014574241,0.0,None,1.0,0.0,Mod_B,Desktop,3.0
+P0347,Account Setup,1.0,57.82912080976398,1.0,Validation,1.0,0.0,Mod_A,Desktop,5.0
+P0348,Payment,1.0,30.48817989052597,1.0,Navigation,2.0,0.0,Mod_B,Mobile,5.0
+P0349,Product Search,1.0,33.214150474565784,0.0,None,1.0,0.0,Mod_C,Tablet,7.0
+P0350,Account Setup,0.0,102.00937735197346,4.0,Input,5.0,0.0,Mod_A,Desktop,6.0
+P0351,Account Setup,1.0,70.54856378786043,0.0,None,2.0,0.0,Mod_A,Mobile,
+P0352,Account Setup,1.0,58.68445262739554,1.0,Validation,3.0,1.0,Mod_A,Desktop,6.0
+P0353,Product Search,1.0,19.324084050492147,0.0,None,1.0,0.0,Mod_C,Mobile,4.0
+P0354,Account Setup,1.0,31.067865338545385,2.0,Validation,1.0,1.0,Mod_B,Desktop,5.0
+P0355,,1.0,61.67537803214834,0.0,None,2.0,1.0,Mod_A,Desktop,5.0
+P0356,Checkout,1.0,25.497644219292617,0.0,None,2.0,0.0,Mod_C,Tablet,7.0
+P0357,Checkout,1.0,20.312636921483563,1.0,Input,3.0,0.0,Mod_B,Desktop,6.0
+P0358,Product Search,1.0,111.72798993374407,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0359,Payment,1.0,30.746070241271674,1.0,System,1.0,0.0,Mod_C,Mobile,7.0
+P0360,Account Setup,0.0,143.7000003347582,2.0,Navigation,2.0,0.0,Mod_B,Desktop,3.0
+P0361,Product Search,,50.026977210299464,1.0,Input,3.0,1.0,Mod_A,Mobile,6.0
+P0362,Checkout,1.0,33.89998329393277,0.0,None,1.0,1.0,Mod_B,Mobile,6.0
+P0363,Account Setup,1.0,53.20382536624755,0.0,None,1.0,0.0,Mod_B,Tablet,5.0
+P0364,Payment,1.0,116.7615397362662,1.0,Validation,2.0,1.0,Mod_C,Mobile,7.0
+P0365,Account Setup,1.0,187.2078690154561,0.0,None,3.0,0.0,Mod_A,Tablet,3.0
+P0366,Product Search,1.0,129.06130441435118,1.0,System,1.0,0.0,Mod_C,Mobile,6.0
+P0367,Checkout,1.0,44.472744448614925,2.0,Navigation,1.0,1.0,Mod_A,Tablet,6.0
+P0368,Product Search,0.0,27.874462114295547,1.0,Navigation,4.0,1.0,Mod_B,Desktop,6.0
+P0369,Account Setup,1.0,9.99660804689368,0.0,None,2.0,0.0,Mod_C,Desktop,5.0
+P0370,Checkout,1.0,61.34618300252831,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0371,Product Search,1.0,207.8348265294931,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0372,Checkout,0.0,55.6353996560392,1.0,System,3.0,0.0,Mod_C,Desktop,5.0
+P0373,Product Search,1.0,118.5548450931933,0.0,None,2.0,0.0,Mod_A,Desktop,7.0
+P0374,Checkout,0.0,27.80040077214381,0.0,None,3.0,1.0,Mod_B,Tablet,4.0
+P0375,,1.0,38.17603185053622,1.0,Validation,1.0,0.0,Mod_B,Desktop,7.0
+P0376,Product Search,,76.14613853281955,1.0,Input,1.0,0.0,Mod_C,Desktop,3.0
+P0377,Payment,1.0,22.6807409151298,0.0,None,1.0,0.0,Mod_A,,5.0
+P0378,Account Setup,1.0,114.54930391786392,0.0,None,1.0,1.0,Mod_A,Desktop,7.0
+P0379,Checkout,1.0,61.41125271876005,0.0,None,2.0,0.0,Mod_C,Tablet,5.0
+P0380,Checkout,0.0,692.2453224781095,2.0,System,3.0,0.0,Mod_A,Desktop,6.0
+P0381,Checkout,,41.899340919959506,4.0,Input,3.0,1.0,Mod_B,Desktop,7.0
+P0382,Checkout,1.0,92.22146261457237,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0383,Payment,1.0,26.254286138127334,0.0,None,2.0,0.0,Mod_C,Desktop,5.0
+P0384,Account Setup,1.0,55.2659622473088,0.0,None,1.0,1.0,Mod_A,Mobile,6.0
+P0385,Checkout,1.0,14.881927252368722,0.0,None,1.0,0.0,Mod_B,Tablet,5.0
+P0386,Account Setup,1.0,71.41108509727972,0.0,None,3.0,1.0,Mod_A,Mobile,5.0
+P0387,Checkout,0.0,69.79955236651814,,Input,4.0,1.0,Mod_A,Mobile,4.0
+P0388,Account Setup,,43.23364769079745,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0389,Product Search,0.0,149.81372337517314,2.0,Validation,5.0,1.0,Mod_B,Desktop,6.0
+P0390,Product Search,1.0,37.33653018032307,0.0,None,1.0,0.0,Mod_A,Mobile,3.0
+P0391,Checkout,1.0,95.66872928758971,1.0,Input,2.0,0.0,Mod_A,Mobile,5.0
+P0392,Checkout,1.0,64.7141667810759,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0393,Account Setup,0.0,54.57983710863108,2.0,Input,3.0,0.0,Mod_A,Mobile,5.0
+P0394,Account Setup,1.0,50.59839437608656,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0395,Checkout,1.0,55.848171065440084,1.0,System,,0.0,Mod_A,Tablet,
+P0396,Product Search,1.0,126.84317047082014,2.0,Navigation,1.0,0.0,Mod_C,Desktop,3.0
+P0397,Product Search,1.0,14.099683396043412,2.0,System,2.0,0.0,Mod_B,Desktop,
+P0398,Product Search,1.0,38.735239273011054,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0399,Checkout,1.0,38.73246072760461,0.0,None,1.0,1.0,Mod_B,Tablet,7.0
+P0400,Checkout,1.0,76.68200147771952,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0401,Account Setup,1.0,228.26961504985434,1.0,Validation,2.0,0.0,Mod_B,Desktop,7.0
+P0402,Payment,0.0,108.48376225027724,3.0,System,5.0,1.0,Mod_A,Desktop,5.0
+P0403,Account Setup,0.0,226.19617303316784,2.0,Input,2.0,1.0,Mod_B,Desktop,7.0
+P0404,Product Search,1.0,144.91734030177466,0.0,None,2.0,0.0,Mod_C,Desktop,3.0
+P0405,Product Search,1.0,52.887968800917434,1.0,Validation,1.0,0.0,Mod_A,Mobile,7.0
+,Account Setup,1.0,47.4508980287556,1.0,Validation,3.0,1.0,Mod_B,Mobile,5.0
+P0407,Product Search,1.0,71.5321559203862,1.0,Input,1.0,1.0,Mod_A,Desktop,5.0
+P0408,Checkout,1.0,11.494329845939832,,None,1.0,0.0,Mod_B,Desktop,5.0
+P0409,Account Setup,1.0,132.8274016036645,0.0,None,1.0,1.0,Mod_A,Tablet,7.0
+P0410,Checkout,1.0,68.17942643157198,0.0,None,1.0,1.0,Mod_C,Mobile,5.0
+P0411,Account Setup,1.0,124.8532705461155,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0412,Product Search,1.0,84.46998526985003,0.0,None,1.0,0.0,Mod_C,Desktop,3.0
+P0413,Payment,1.0,84.69608757792365,0.0,None,2.0,0.0,Mod_B,Mobile,5.0
+,Product Search,1.0,45.14735249607836,2.0,System,,0.0,Mod_B,Desktop,7.0
+P0415,Account Setup,1.0,126.6521967601127,2.0,,2.0,0.0,Mod_B,Desktop,6.0
+P0416,Checkout,1.0,65.77896282403444,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0417,Account Setup,,18.527680824931686,0.0,None,2.0,0.0,Mod_B,Desktop,7.0
+P0418,Checkout,1.0,179.9338213546222,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0419,Payment,0.0,72.25922723274589,1.0,Validation,2.0,0.0,Mod_C,Desktop,3.0
+P0420,Account Setup,1.0,75.8950034246765,0.0,None,1.0,1.0,Mod_C,Desktop,6.0
+P0421,Account Setup,1.0,43.68224114039357,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0422,Checkout,1.0,144.5003110437974,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0423,Payment,0.0,32.131413095576676,5.0,Input,,1.0,Mod_A,Mobile,6.0
+P0424,Checkout,1.0,34.48567956302644,0.0,None,3.0,0.0,Mod_A,Desktop,6.0
+P0425,Account Setup,1.0,77.24750670800694,1.0,Input,1.0,0.0,Mod_B,Tablet,7.0
+P0426,Account Setup,1.0,12.77857343762187,1.0,System,1.0,0.0,Mod_B,Mobile,
+P0427,Product Search,1.0,93.95051406384911,1.0,Navigation,1.0,0.0,Mod_C,Desktop,6.0
+P0428,Product Search,1.0,69.89050198403437,0.0,None,2.0,0.0,Mod_B,Tablet,6.0
+P0429,Checkout,1.0,66.25086871592383,1.0,System,1.0,0.0,Mod_B,Tablet,6.0
+P0430,Product Search,1.0,73.87838215994728,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0431,Payment,0.0,37.74712441377801,2.0,Input,1.0,0.0,Mod_C,Desktop,7.0
+P0432,Checkout,1.0,57.18172032802792,,None,1.0,1.0,Mod_A,Desktop,7.0
+P0433,Payment,1.0,49.51886417379116,1.0,Validation,3.0,1.0,Mod_C,Tablet,6.0
+P0434,Checkout,1.0,65.30542498340597,0.0,None,2.0,0.0,Mod_B,Mobile,5.0
+P0435,Account Setup,1.0,42.21266211483639,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0436,Checkout,1.0,33.7732678534724,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0437,Payment,0.0,172.04786686972807,3.0,System,2.0,0.0,Mod_B,Desktop,6.0
+P0438,Checkout,1.0,18.401544428294912,0.0,None,1.0,1.0,Mod_C,Desktop,3.0
+P0439,Checkout,1.0,316.148292329407,0.0,None,1.0,1.0,,Mobile,6.0
+P0440,Account Setup,1.0,7.659817995748231,1.0,System,1.0,0.0,Mod_A,Tablet,6.0
+P0441,Product Search,1.0,26.903596343858634,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0442,Payment,1.0,167.40149040212947,,None,2.0,0.0,Mod_A,Desktop,5.0
+P0443,Checkout,0.0,46.2117116120893,1.0,Input,4.0,0.0,Mod_C,Desktop,7.0
+P0444,Account Setup,1.0,,0.0,None,3.0,0.0,Mod_B,Desktop,7.0
+P0445,Payment,1.0,85.49131569110001,0.0,None,1.0,1.0,Mod_A,Mobile,5.0
+P0446,Account Setup,1.0,19.806833971799925,1.0,System,1.0,0.0,Mod_C,Mobile,4.0
+P0447,Checkout,1.0,44.88857941811189,1.0,Validation,1.0,0.0,Mod_A,Tablet,4.0
+P0448,,1.0,27.23440823373474,0.0,None,3.0,1.0,Mod_B,Mobile,6.0
+P0449,Checkout,1.0,185.89590401534522,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0450,Account Setup,0.0,24.887430760652165,3.0,System,3.0,0.0,Mod_C,Mobile,7.0
+P0451,Checkout,1.0,53.23242492454946,1.0,System,1.0,0.0,Mod_A,Mobile,6.0
+P0452,Product Search,1.0,39.3125060723849,2.0,Input,2.0,0.0,Mod_A,Desktop,6.0
+P0453,Account Setup,1.0,22.739793559316485,2.0,Validation,1.0,1.0,,Tablet,6.0
+P0454,Payment,1.0,28.726347098527995,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0455,Checkout,1.0,18.91114827126954,3.0,System,2.0,0.0,Mod_A,Desktop,5.0
+P0456,Checkout,1.0,45.918250398130056,0.0,None,1.0,1.0,Mod_C,Mobile,4.0
+P0457,Product Search,0.0,98.99464355674661,4.0,Navigation,5.0,1.0,Mod_B,Desktop,6.0
+P0458,Account Setup,1.0,30.832553301818205,3.0,System,2.0,1.0,Mod_B,Desktop,7.0
+P0459,Checkout,1.0,70.81193153811148,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0460,Checkout,0.0,75.20124277474038,6.0,Input,2.0,0.0,Mod_C,Desktop,7.0
+P0461,Checkout,1.0,28.777527926323952,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0462,Account Setup,1.0,29.067623914102363,2.0,Navigation,3.0,1.0,Mod_A,Desktop,6.0
+P0463,Account Setup,1.0,65.37876421445036,0.0,None,1.0,0.0,,Desktop,4.0
+P0464,Account Setup,1.0,324.6320446318601,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0465,Account Setup,1.0,28.046699249540453,0.0,None,1.0,1.0,Mod_C,Tablet,7.0
+P0466,Product Search,1.0,13.473854541589056,1.0,Navigation,1.0,0.0,Mod_C,Desktop,
+P0467,Account Setup,1.0,111.84232998535282,0.0,None,2.0,0.0,Mod_B,Desktop,6.0
+P0468,Checkout,0.0,33.76200870280991,1.0,,4.0,1.0,Mod_B,Desktop,7.0
+P0469,Account Setup,1.0,79.46691864618168,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0470,Account Setup,1.0,42.128644891704326,0.0,None,1.0,0.0,Mod_A,Tablet,7.0
+P0471,Product Search,1.0,26.485067237280422,,None,1.0,1.0,Mod_B,Desktop,7.0
+P0472,Checkout,0.0,63.18162127403558,1.0,System,1.0,1.0,Mod_A,Tablet,5.0
+P0473,Checkout,1.0,32.58196528927186,1.0,System,1.0,0.0,Mod_A,Desktop,7.0
+P0474,Payment,1.0,25.338754378507794,1.0,System,1.0,0.0,Mod_B,Mobile,6.0
+P0475,Product Search,1.0,43.71038293669111,1.0,Navigation,1.0,0.0,Mod_A,Tablet,5.0
+P0476,Account Setup,0.0,44.17388482823169,5.0,Validation,2.0,1.0,Mod_B,Mobile,6.0
+,Checkout,1.0,228.8829953340853,0.0,None,2.0,0.0,Mod_A,Desktop,3.0
+P0478,Account Setup,1.0,65.78001340882572,0.0,None,1.0,1.0,Mod_A,Tablet,7.0
+P0479,Account Setup,1.0,49.38083967660488,0.0,,,0.0,Mod_A,Mobile,6.0
+P0480,Product Search,,26.75648488030938,2.0,Input,,1.0,Mod_C,Desktop,6.0
+P0481,Checkout,1.0,67.97298116443176,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+P0482,Checkout,1.0,140.98089025787834,0.0,None,,,Mod_C,Desktop,6.0
+P0483,Product Search,1.0,33.33405598698496,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0484,Checkout,1.0,12.327290093094453,2.0,Input,2.0,0.0,Mod_A,Mobile,5.0
+P0485,Checkout,1.0,86.9516784279506,0.0,None,1.0,1.0,Mod_B,Mobile,5.0
+P0486,Checkout,1.0,118.01587877307514,1.0,Validation,1.0,1.0,Mod_A,Desktop,6.0
+P0487,Account Setup,1.0,207.10806666721462,0.0,None,2.0,0.0,Mod_B,Tablet,6.0
+P0488,Account Setup,1.0,119.57281763885905,0.0,None,1.0,1.0,Mod_B,Desktop,7.0
+P0489,Product Search,1.0,15.810762572276476,0.0,None,2.0,0.0,Mod_C,,6.0
+P0490,Account Setup,1.0,64.68466169680843,2.0,Validation,3.0,1.0,Mod_A,Desktop,5.0
+P0491,Account Setup,1.0,127.70270241262463,,None,1.0,0.0,Mod_C,Mobile,3.0
+P0492,Checkout,1.0,35.77172479258683,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0493,Payment,1.0,90.59612827927036,0.0,None,1.0,0.0,Mod_B,Tablet,6.0
+,Checkout,0.0,83.1341490696725,2.0,Input,1.0,0.0,Mod_C,Mobile,5.0
+P0495,Account Setup,1.0,108.92138170272753,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+,Checkout,1.0,44.16112316164545,0.0,None,1.0,1.0,Mod_A,Tablet,6.0
+P0497,Checkout,0.0,52.305679814072505,6.0,Validation,4.0,0.0,Mod_B,Tablet,7.0
+P0498,Checkout,1.0,63.38817790519709,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0499,Account Setup,1.0,24.14678892498973,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0500,Checkout,1.0,209.45555858331932,0.0,None,1.0,0.0,,Desktop,6.0
+P0501,Account Setup,1.0,41.146227926646816,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0502,Account Setup,1.0,90.05369690433653,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0503,Checkout,1.0,64.3712323798712,0.0,None,1.0,1.0,Mod_A,Tablet,6.0
+P0504,Payment,1.0,184.6825238315929,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0505,Payment,0.0,270.51103705439925,2.0,System,2.0,1.0,Mod_B,Desktop,5.0
+P0506,Product Search,1.0,86.89922798406928,1.0,Input,2.0,0.0,Mod_A,Mobile,5.0
+P0507,Account Setup,1.0,247.0897042595578,0.0,None,3.0,0.0,Mod_A,Desktop,3.0
+P0508,Checkout,1.0,15.313016156524869,0.0,None,2.0,0.0,Mod_B,Desktop,5.0
+P0509,Payment,1.0,45.854994755459224,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0510,Account Setup,1.0,111.08627742239133,0.0,None,2.0,1.0,Mod_A,Desktop,4.0
+P0511,Product Search,1.0,27.77855540112541,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0512,Checkout,1.0,55.68739616396726,1.0,System,1.0,0.0,Mod_C,,5.0
+P0513,Checkout,1.0,120.82539641047995,2.0,System,1.0,0.0,Mod_A,Mobile,7.0
+P0514,Checkout,1.0,50.33972010275614,0.0,,2.0,1.0,Mod_A,Desktop,7.0
+P0515,Account Setup,1.0,86.93837603631565,1.0,Navigation,2.0,0.0,Mod_A,Desktop,6.0
+P0516,Account Setup,1.0,65.79633676137652,,System,2.0,0.0,Mod_B,Mobile,3.0
+P0517,Payment,1.0,89.9058520057039,1.0,Validation,2.0,0.0,Mod_A,Desktop,
+P0518,Payment,0.0,,4.0,Input,4.0,0.0,Mod_C,Tablet,6.0
+P0519,,0.0,43.475356493212196,2.0,Navigation,3.0,1.0,Mod_A,Desktop,6.0
+P0520,Product Search,1.0,15.39430078230905,1.0,Validation,1.0,0.0,Mod_C,Desktop,6.0
+P0521,Product Search,1.0,10.40658798269244,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0522,Product Search,1.0,20.655539090106043,1.0,Validation,1.0,1.0,Mod_A,Desktop,7.0
+,Checkout,1.0,20.70712404629339,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0524,Checkout,0.0,134.0517481735223,1.0,Input,4.0,0.0,Mod_C,Desktop,6.0
+P0525,Checkout,1.0,289.39839271786167,0.0,None,2.0,0.0,Mod_A,Mobile,6.0
+P0526,Checkout,0.0,29.950637863697366,4.0,System,3.0,0.0,Mod_B,Mobile,5.0
+P0527,Product Search,1.0,198.77585621530122,1.0,System,1.0,1.0,Mod_B,Desktop,6.0
+P0528,Account Setup,1.0,241.28890064942678,0.0,None,1.0,0.0,,Desktop,7.0
+P0529,Account Setup,1.0,130.86327314363214,1.0,Input,1.0,0.0,Mod_C,Tablet,7.0
+P0530,Checkout,1.0,50.02347599624632,0.0,None,2.0,1.0,Mod_B,Tablet,7.0
+P0531,Product Search,,383.3502722705796,4.0,Navigation,5.0,1.0,Mod_A,Tablet,7.0
+P0532,Checkout,1.0,69.5356098107441,1.0,Validation,1.0,1.0,Mod_A,Desktop,6.0
+P0533,Checkout,0.0,85.82722222605341,2.0,Input,4.0,1.0,Mod_A,Desktop,
+P0534,Checkout,1.0,19.316613092438484,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0535,Checkout,1.0,70.90050033876723,0.0,None,1.0,1.0,Mod_B,Tablet,6.0
+P0536,Payment,1.0,39.2475055719439,1.0,System,1.0,1.0,Mod_C,Desktop,6.0
+P0537,Payment,0.0,31.46976750097081,2.0,System,3.0,0.0,Mod_C,Mobile,5.0
+P0538,Checkout,1.0,82.66861915001837,1.0,Navigation,3.0,0.0,Mod_C,Mobile,6.0
+P0539,Checkout,1.0,17.688176104460744,1.0,System,3.0,0.0,Mod_A,Tablet,6.0
+P0540,Checkout,1.0,37.36538834172786,,None,1.0,0.0,Mod_B,Mobile,5.0
+P0541,Payment,0.0,33.8799791328504,2.0,Validation,3.0,0.0,Mod_A,Tablet,6.0
+P0542,Payment,1.0,26.09777636376216,1.0,Validation,1.0,0.0,Mod_C,Desktop,6.0
+P0543,Checkout,,33.401510278460535,1.0,,1.0,0.0,Mod_A,Mobile,4.0
+P0544,Product Search,0.0,104.33773959117443,3.0,Validation,4.0,0.0,Mod_A,Tablet,7.0
+P0545,Account Setup,1.0,37.114244461893506,,Input,1.0,0.0,Mod_C,Tablet,6.0
+P0546,Account Setup,1.0,5.349930271071203,1.0,System,1.0,0.0,Mod_B,Desktop,7.0
+P0547,Account Setup,1.0,179.97707510594176,3.0,Validation,2.0,1.0,Mod_A,Mobile,5.0
+P0548,Checkout,1.0,162.06966427699285,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0549,Checkout,1.0,138.2724835302051,0.0,None,,0.0,Mod_B,Desktop,6.0
+P0550,,1.0,31.552994043220128,1.0,Navigation,2.0,1.0,Mod_A,Desktop,6.0
+P0551,Checkout,1.0,24.922799887328768,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+,Checkout,1.0,80.38826848712779,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0553,Product Search,1.0,116.57843468695256,1.0,Navigation,1.0,0.0,Mod_A,Desktop,7.0
+P0554,Product Search,0.0,62.20369616005641,2.0,System,3.0,0.0,Mod_C,Desktop,4.0
+P0555,,1.0,48.97917507748403,0.0,None,3.0,0.0,Mod_B,Tablet,5.0
+P0556,Product Search,1.0,27.94391682678951,1.0,Navigation,1.0,0.0,Mod_C,Desktop,4.0
+P0557,Account Setup,0.0,379.9453043459198,1.0,Input,5.0,0.0,Mod_A,Mobile,7.0
+P0558,Account Setup,1.0,42.657241157444076,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0559,Account Setup,1.0,,0.0,None,1.0,1.0,Mod_A,Desktop,5.0
+P0560,,1.0,67.7310782229389,1.0,Navigation,1.0,1.0,Mod_A,Tablet,3.0
+P0561,Account Setup,1.0,59.33094895697363,0.0,None,3.0,0.0,Mod_A,Mobile,5.0
+P0562,Account Setup,1.0,70.43610145338589,,None,3.0,1.0,Mod_C,Tablet,4.0
+P0563,Product Search,1.0,125.96872116693584,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0564,Account Setup,0.0,17.499182044015924,3.0,Validation,3.0,0.0,Mod_B,Desktop,5.0
+P0565,Checkout,1.0,12.583234063779976,0.0,None,3.0,0.0,Mod_A,Desktop,7.0
+P0566,Checkout,1.0,44.419354777641715,2.0,Input,1.0,0.0,Mod_B,Mobile,7.0
+P0567,Product Search,1.0,89.18855277510599,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0568,Product Search,1.0,289.7913945863198,1.0,Validation,1.0,1.0,Mod_A,Desktop,4.0
+P0569,Checkout,0.0,37.3924501589688,1.0,Input,2.0,1.0,Mod_B,Mobile,6.0
+P0570,Payment,0.0,,2.0,Validation,3.0,0.0,Mod_C,Mobile,5.0
+P0571,Checkout,1.0,84.42564784415038,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0572,Checkout,1.0,38.334561802561744,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0573,Checkout,0.0,81.13173857406738,6.0,Validation,3.0,1.0,Mod_B,Desktop,7.0
+P0574,Checkout,0.0,550.5116469852755,0.0,None,3.0,1.0,Mod_A,Desktop,7.0
+P0575,Product Search,1.0,96.48568042417567,0.0,None,1.0,0.0,Mod_B,Tablet,7.0
+P0576,Payment,0.0,122.06996828611399,1.0,Input,3.0,0.0,Mod_C,Desktop,6.0
+P0577,Account Setup,1.0,20.420816875310372,0.0,None,2.0,0.0,Mod_C,Desktop,5.0
+P0578,Account Setup,0.0,68.61203482009716,4.0,System,5.0,0.0,Mod_C,Desktop,7.0
+P0579,Payment,1.0,23.808958011030604,0.0,None,2.0,1.0,Mod_C,Mobile,7.0
+P0580,Checkout,1.0,20.195511067328543,1.0,Validation,1.0,1.0,Mod_B,Mobile,3.0
+P0581,Product Search,1.0,105.62819199650714,1.0,Navigation,1.0,0.0,Mod_A,Desktop,5.0
+P0582,Account Setup,1.0,8.026791435369123,1.0,Navigation,1.0,1.0,Mod_A,Tablet,6.0
+P0583,Account Setup,1.0,16.503143411497888,0.0,None,1.0,0.0,Mod_B,Mobile,7.0
+P0584,Checkout,1.0,15.953028549655375,0.0,None,1.0,0.0,Mod_B,Tablet,7.0
+P0585,Account Setup,1.0,101.35903241596583,0.0,None,3.0,0.0,Mod_C,Mobile,7.0
+P0586,Checkout,0.0,28.158077559821177,,Navigation,5.0,1.0,Mod_A,Desktop,5.0
+P0587,Checkout,0.0,220.7924337486082,2.0,Navigation,4.0,0.0,Mod_A,Mobile,5.0
+P0588,Checkout,1.0,38.19416148900664,1.0,Input,2.0,0.0,Mod_C,Tablet,5.0
+P0589,Account Setup,1.0,13.265458248218188,1.0,Validation,1.0,1.0,Mod_B,Desktop,5.0
+P0590,Payment,1.0,87.73326052732571,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0591,Payment,1.0,89.7536873993258,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0592,Payment,,39.55031891699146,0.0,None,,1.0,Mod_A,Desktop,3.0
+P0593,Account Setup,1.0,119.02326155897062,,Navigation,1.0,0.0,Mod_C,Desktop,5.0
+P0594,,0.0,252.9318564735146,1.0,System,5.0,1.0,Mod_C,Desktop,7.0
+,Checkout,1.0,67.88331961118635,2.0,Navigation,3.0,0.0,Mod_C,Desktop,7.0
+P0596,Product Search,1.0,25.274639816852318,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0597,Checkout,1.0,23.55242625464154,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0598,Product Search,1.0,47.008475509937064,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0599,Checkout,1.0,28.483672336071358,1.0,Input,1.0,0.0,Mod_B,Desktop,7.0
+P0600,Payment,1.0,17.254534193376823,0.0,None,1.0,0.0,Mod_A,,7.0
+P0601,Checkout,1.0,20.183401095382838,1.0,Navigation,1.0,0.0,Mod_C,Tablet,6.0
+P0602,Product Search,1.0,26.5142914454493,1.0,Navigation,1.0,0.0,Mod_C,Mobile,6.0
+P0603,Payment,1.0,276.9394498540757,0.0,None,2.0,1.0,Mod_A,Mobile,7.0
+P0604,Checkout,0.0,186.2627257502889,2.0,Navigation,5.0,1.0,Mod_C,Desktop,5.0
+P0605,Checkout,1.0,61.208210572281956,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0606,Payment,1.0,52.013176283594326,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0607,,1.0,121.02603422690589,0.0,None,,1.0,Mod_B,Tablet,4.0
+P0608,Account Setup,1.0,67.73776972611913,0.0,None,3.0,0.0,Mod_B,Desktop,5.0
+P0609,Account Setup,1.0,76.01210760943941,0.0,,1.0,0.0,Mod_A,Desktop,6.0
+P0610,Account Setup,1.0,48.44420787059714,0.0,None,1.0,,Mod_C,Tablet,6.0
+P0611,Account Setup,0.0,49.7018760025763,4.0,Input,5.0,0.0,Mod_C,,6.0
+P0612,Checkout,1.0,113.46028072976704,0.0,,1.0,0.0,Mod_B,Mobile,5.0
+P0613,Checkout,1.0,89.12783218437694,0.0,None,2.0,0.0,Mod_A,Mobile,6.0
+P0614,Payment,1.0,74.1957872815557,2.0,Input,3.0,0.0,Mod_B,Desktop,4.0
+P0615,Payment,1.0,42.56108619806188,3.0,System,1.0,1.0,Mod_B,Mobile,
+P0616,Checkout,1.0,15.714249825286839,1.0,System,1.0,1.0,Mod_A,Mobile,6.0
+P0617,Payment,1.0,454.9728248069918,2.0,Validation,1.0,0.0,Mod_B,Mobile,6.0
+P0618,Payment,0.0,51.373774132853484,3.0,Validation,4.0,1.0,Mod_B,Tablet,5.0
+P0619,,1.0,136.461160719493,0.0,None,1.0,0.0,Mod_B,Tablet,5.0
+P0620,Account Setup,0.0,62.45838407288927,2.0,System,2.0,0.0,Mod_C,Desktop,6.0
+P0621,Checkout,1.0,30.42856033402542,0.0,,1.0,1.0,Mod_B,Desktop,6.0
+P0622,Checkout,1.0,147.89840140142402,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0623,Account Setup,1.0,41.53271700072053,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0624,Account Setup,0.0,42.57407842023307,7.0,Input,4.0,0.0,Mod_C,Desktop,6.0
+P0625,Checkout,1.0,82.66080770515546,1.0,Navigation,3.0,1.0,Mod_C,Mobile,5.0
+P0626,Account Setup,1.0,69.55483163147616,1.0,System,1.0,1.0,Mod_B,Mobile,7.0
+P0627,Account Setup,0.0,96.60640885714486,1.0,Navigation,5.0,1.0,Mod_B,Tablet,6.0
+P0628,Checkout,1.0,33.7103487108369,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0629,Account Setup,1.0,55.060239011690435,0.0,None,1.0,0.0,Mod_C,Mobile,7.0
+P0630,Product Search,1.0,59.0632133717788,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0631,Account Setup,1.0,11.864405002456868,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0632,Account Setup,1.0,29.407866987833426,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0633,Account Setup,1.0,23.699841544348995,0.0,None,1.0,0.0,Mod_A,Tablet,7.0
+P0634,Payment,1.0,133.56775360511838,0.0,None,1.0,1.0,Mod_B,Mobile,5.0
+P0635,Checkout,1.0,24.578779402165384,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0636,Product Search,1.0,22.341072519542564,1.0,Validation,2.0,0.0,Mod_A,Desktop,5.0
+P0637,Account Setup,0.0,72.19887051423659,3.0,Navigation,5.0,1.0,Mod_C,Mobile,4.0
+P0638,Payment,1.0,6.5380054850917295,2.0,Navigation,1.0,0.0,Mod_C,Mobile,5.0
+P0639,Checkout,1.0,16.874815444768956,2.0,Input,4.0,,Mod_A,Desktop,5.0
+P0640,Account Setup,1.0,49.6748822983892,,Navigation,1.0,0.0,Mod_B,Desktop,7.0
+P0641,Payment,1.0,,1.0,Navigation,2.0,0.0,Mod_B,Tablet,6.0
+P0642,Payment,1.0,61.74536070453998,0.0,,1.0,0.0,Mod_A,Desktop,6.0
+P0643,Payment,0.0,60.282315634651965,3.0,Validation,2.0,0.0,Mod_B,Desktop,5.0
+P0644,Account Setup,1.0,65.85291043655528,0.0,None,1.0,0.0,Mod_C,Tablet,3.0
+P0645,Payment,1.0,65.73439620735537,0.0,None,,1.0,Mod_B,Mobile,6.0
+P0646,Checkout,1.0,14.563675020960261,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0647,,1.0,187.92303207959418,1.0,,2.0,0.0,Mod_C,Desktop,5.0
+P0648,Checkout,1.0,107.65849936183412,1.0,System,2.0,1.0,Mod_A,Desktop,5.0
+P0649,Payment,1.0,122.9748996237683,,Input,3.0,1.0,Mod_C,Desktop,5.0
+P0650,Account Setup,1.0,114.98966233867303,0.0,None,2.0,0.0,Mod_B,Tablet,4.0
+P0651,Product Search,1.0,66.34372190716292,2.0,Navigation,3.0,1.0,Mod_B,Mobile,5.0
+P0652,Account Setup,0.0,63.98075676286211,1.0,,1.0,0.0,Mod_A,Desktop,6.0
+P0653,Checkout,1.0,51.28246219366129,0.0,None,1.0,0.0,Mod_C,Mobile,4.0
+P0654,Account Setup,0.0,188.8370484982275,3.0,System,3.0,1.0,Mod_A,Desktop,5.0
+P0655,Checkout,1.0,58.9930876797939,0.0,None,1.0,0.0,Mod_C,Mobile,6.0
+P0656,Account Setup,1.0,12.211821729928545,1.0,Navigation,1.0,0.0,Mod_B,Mobile,
+P0657,Product Search,1.0,301.1118736833474,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0658,Payment,1.0,181.54791073066886,1.0,Input,1.0,0.0,Mod_B,Mobile,4.0
+P0659,Checkout,0.0,111.63867930918713,6.0,Navigation,2.0,0.0,Mod_C,Desktop,6.0
+P0660,Account Setup,1.0,72.9885226648323,1.0,Input,1.0,0.0,Mod_B,Mobile,6.0
+,Checkout,1.0,27.18728677111031,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0662,Account Setup,0.0,97.6735122248734,1.0,Input,3.0,0.0,Mod_C,Mobile,5.0
+P0663,Account Setup,1.0,207.32387472951422,2.0,System,4.0,0.0,Mod_A,Tablet,5.0
+P0664,Account Setup,1.0,25.38843021439003,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0665,Payment,1.0,55.67977653419129,0.0,None,1.0,0.0,Mod_A,Desktop,3.0
+P0666,Account Setup,0.0,154.9330038908136,2.0,Navigation,4.0,1.0,Mod_B,Mobile,6.0
+P0667,Account Setup,1.0,176.11961432326916,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0668,Payment,1.0,28.449931561833278,,None,1.0,,Mod_C,Tablet,
+P0669,Product Search,1.0,138.93974971806338,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0670,Checkout,1.0,37.10574255328905,0.0,None,,0.0,Mod_C,Tablet,5.0
+P0671,Checkout,1.0,66.49038008957984,2.0,Validation,3.0,0.0,Mod_C,Mobile,6.0
+P0672,Checkout,1.0,60.37138561398629,1.0,System,2.0,0.0,Mod_C,Desktop,5.0
+P0673,Checkout,1.0,19.00537608083698,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0674,,1.0,192.14891731431598,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0675,Checkout,1.0,47.07244068405197,1.0,Input,1.0,0.0,Mod_C,Desktop,5.0
+P0676,Account Setup,1.0,25.56895458661613,0.0,None,2.0,1.0,Mod_C,Tablet,5.0
+P0677,Payment,1.0,101.84081905279191,0.0,None,1.0,0.0,,Mobile,4.0
+P0678,Account Setup,1.0,,1.0,Validation,1.0,0.0,,Tablet,6.0
+P0679,Payment,1.0,26.78631300814529,0.0,None,2.0,0.0,Mod_A,Tablet,6.0
+P0680,Checkout,1.0,42.046226236265184,0.0,None,1.0,0.0,Mod_B,Tablet,4.0
+P0681,Checkout,1.0,51.132709601640194,0.0,None,1.0,0.0,Mod_A,Desktop,5.0
+P0682,Checkout,1.0,51.75715162939332,1.0,Navigation,,0.0,Mod_A,Desktop,7.0
+P0683,Payment,1.0,25.825687236597947,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0684,Checkout,0.0,180.2614892096779,2.0,Input,4.0,0.0,Mod_A,Tablet,7.0
+P0685,Account Setup,1.0,23.190018642434573,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0686,Checkout,0.0,250.52093359881025,3.0,Validation,2.0,0.0,Mod_A,Desktop,4.0
+P0687,Account Setup,1.0,69.16294397697811,1.0,Validation,2.0,0.0,Mod_C,Tablet,6.0
+P0688,Account Setup,0.0,127.76227595627023,2.0,Input,3.0,1.0,Mod_A,Desktop,5.0
+P0689,Product Search,1.0,40.12971361704218,1.0,Input,1.0,0.0,Mod_B,Tablet,5.0
+P0690,Checkout,1.0,232.7677175973669,1.0,Navigation,,0.0,Mod_B,Mobile,5.0
+P0691,Account Setup,1.0,77.2975727623574,1.0,Validation,1.0,1.0,Mod_B,Desktop,7.0
+P0692,Account Setup,1.0,28.68749818011154,0.0,None,1.0,1.0,Mod_C,Mobile,6.0
+P0693,Account Setup,0.0,195.10471211877365,1.0,Navigation,3.0,1.0,Mod_A,Desktop,5.0
+P0694,Checkout,1.0,152.50945157881608,1.0,Input,1.0,1.0,Mod_A,Tablet,6.0
+P0695,Checkout,1.0,57.48509049097603,1.0,Navigation,,0.0,Mod_A,Desktop,5.0
+P0696,Product Search,1.0,45.72238801564278,1.0,Navigation,1.0,0.0,Mod_A,Desktop,7.0
+P0697,Account Setup,1.0,243.09284452604834,0.0,None,3.0,0.0,Mod_C,Mobile,5.0
+P0698,Payment,1.0,47.06176370014427,1.0,Navigation,1.0,0.0,Mod_C,Tablet,6.0
+P0699,Product Search,1.0,27.892278610394065,0.0,None,2.0,0.0,Mod_B,Mobile,7.0
+P0700,Account Setup,1.0,15.596795970403138,1.0,Input,1.0,0.0,Mod_C,Desktop,7.0
+P0701,Checkout,1.0,44.70999398083133,1.0,Navigation,1.0,1.0,Mod_A,Mobile,6.0
+P0702,Payment,0.0,50.04246630571309,2.0,Navigation,3.0,1.0,Mod_A,Desktop,4.0
+P0703,Checkout,1.0,50.466570194730025,0.0,None,1.0,1.0,Mod_A,Tablet,6.0
+P0704,Product Search,1.0,51.97701336380403,1.0,Validation,2.0,0.0,Mod_A,Mobile,5.0
+P0705,Checkout,1.0,61.135488262056676,0.0,None,3.0,0.0,Mod_B,Mobile,7.0
+P0706,Payment,1.0,23.70196034918968,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0707,Checkout,1.0,50.73356060868353,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0708,Product Search,1.0,135.10808305967424,0.0,None,1.0,1.0,Mod_B,Tablet,7.0
+P0709,Product Search,1.0,197.88944705777746,2.0,System,1.0,0.0,Mod_C,Desktop,5.0
+P0710,Checkout,1.0,25.95057724605626,0.0,None,,0.0,Mod_B,Mobile,7.0
+P0711,Account Setup,1.0,75.79032471045099,2.0,Input,,0.0,Mod_B,Desktop,5.0
+P0712,Product Search,1.0,32.219113718357775,1.0,System,1.0,0.0,Mod_A,Desktop,7.0
+P0713,Payment,0.0,253.81599344545185,2.0,Navigation,4.0,0.0,Mod_B,Desktop,7.0
+P0714,Payment,1.0,128.07935494542156,0.0,None,1.0,0.0,Mod_A,Desktop,3.0
+P0715,Checkout,1.0,73.41214264497513,0.0,None,2.0,0.0,Mod_A,Mobile,7.0
+P0716,Account Setup,1.0,,0.0,None,2.0,1.0,Mod_A,Tablet,6.0
+P0717,Account Setup,1.0,32.29671560600561,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0718,Product Search,1.0,72.7670831371017,1.0,Navigation,1.0,0.0,Mod_B,Tablet,5.0
+P0719,Product Search,1.0,38.37625294551143,0.0,None,2.0,0.0,Mod_C,Mobile,7.0
+P0720,Account Setup,1.0,26.399354554475867,0.0,None,,0.0,Mod_A,Desktop,5.0
+,Account Setup,1.0,84.8542326045375,1.0,System,1.0,0.0,Mod_A,Desktop,7.0
+P0722,Product Search,1.0,49.443596835425595,0.0,None,3.0,0.0,Mod_C,Mobile,
+P0723,Payment,1.0,9.965433116067038,0.0,None,1.0,0.0,Mod_A,Mobile,3.0
+P0724,Checkout,1.0,89.110128557372,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0725,Checkout,1.0,37.48057292337211,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0726,Payment,1.0,82.85733585592425,0.0,None,1.0,1.0,Mod_B,Mobile,6.0
+P0727,Product Search,0.0,27.83918256819327,3.0,Input,2.0,0.0,Mod_A,Mobile,6.0
+P0728,Checkout,0.0,240.99960161952248,4.0,Validation,3.0,0.0,Mod_C,Mobile,5.0
+P0729,Account Setup,1.0,87.0661646101789,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0730,Product Search,1.0,55.45372085850639,0.0,None,2.0,0.0,Mod_B,Mobile,5.0
+P0731,Checkout,1.0,37.671460883100764,0.0,None,2.0,1.0,Mod_A,Desktop,7.0
+P0732,Product Search,1.0,125.59522014841157,0.0,None,1.0,1.0,Mod_A,Desktop,5.0
+P0733,Product Search,1.0,94.11530211907946,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0734,Payment,0.0,61.94456688058419,3.0,Navigation,3.0,0.0,Mod_B,Tablet,6.0
+P0735,Account Setup,1.0,55.49318953529117,0.0,None,2.0,0.0,Mod_B,Desktop,3.0
+P0736,Checkout,1.0,16.58486811683512,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0737,Payment,,81.7247392020363,0.0,None,1.0,1.0,Mod_B,Mobile,6.0
+P0738,Product Search,1.0,45.30340071750002,1.0,Navigation,1.0,0.0,Mod_C,Mobile,3.0
+P0739,Account Setup,1.0,37.76396739432556,1.0,Validation,1.0,0.0,Mod_B,Tablet,4.0
+P0740,Account Setup,1.0,48.003519627481424,1.0,System,1.0,0.0,Mod_B,,6.0
+P0741,Product Search,1.0,,1.0,Navigation,,0.0,Mod_C,Mobile,7.0
+P0742,Checkout,1.0,40.868910138756085,1.0,Validation,3.0,0.0,Mod_B,Mobile,6.0
+P0743,Payment,1.0,261.3884785115493,1.0,System,2.0,,Mod_C,Desktop,5.0
+P0744,Product Search,0.0,106.82242732322769,1.0,System,3.0,0.0,Mod_B,Desktop,6.0
+P0745,Checkout,1.0,156.45639634435395,0.0,None,1.0,0.0,Mod_C,Tablet,6.0
+P0746,Product Search,0.0,,1.0,System,1.0,0.0,Mod_A,Desktop,5.0
+P0747,Product Search,1.0,16.280309951456424,1.0,Navigation,1.0,0.0,Mod_B,Desktop,4.0
+P0748,Account Setup,0.0,144.872128773056,1.0,Input,4.0,1.0,Mod_B,Mobile,6.0
+P0749,Account Setup,1.0,25.86767852805908,0.0,None,1.0,,Mod_C,Tablet,4.0
+P0750,Checkout,1.0,70.21958169657741,0.0,None,1.0,0.0,Mod_A,Tablet,7.0
+P0751,Product Search,1.0,38.63160054788751,1.0,,1.0,0.0,Mod_B,Desktop,6.0
+P0752,Product Search,1.0,11.48789422571063,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0753,Payment,1.0,56.09868921117268,0.0,None,2.0,0.0,Mod_A,Desktop,6.0
+P0754,Product Search,0.0,129.52676500381463,2.0,Validation,3.0,1.0,Mod_B,Tablet,6.0
+P0755,Account Setup,1.0,72.34155794590772,0.0,None,,0.0,Mod_A,Mobile,6.0
+P0756,Checkout,1.0,48.087941564758935,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0757,Payment,1.0,96.16820353135294,0.0,None,1.0,0.0,Mod_C,Desktop,4.0
+P0758,Payment,1.0,151.8545189145793,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0759,Checkout,1.0,50.88324354364782,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+P0760,Product Search,0.0,106.7118110516054,2.0,System,1.0,0.0,Mod_B,Mobile,3.0
+P0761,Account Setup,0.0,68.27921747697917,,Navigation,3.0,0.0,Mod_A,Desktop,3.0
+P0762,Checkout,1.0,32.697471047610655,1.0,Validation,1.0,0.0,Mod_A,Desktop,6.0
+P0763,Checkout,1.0,185.83296090165973,0.0,None,2.0,0.0,Mod_B,Desktop,5.0
+P0764,Payment,1.0,89.58994407536304,2.0,Validation,1.0,0.0,Mod_A,Desktop,6.0
+P0765,Checkout,1.0,77.8099385874074,0.0,None,1.0,0.0,Mod_B,Tablet,5.0
+P0766,Product Search,1.0,25.637598597803063,1.0,Validation,1.0,1.0,Mod_B,Mobile,6.0
+P0767,Payment,1.0,23.58989600309034,0.0,,1.0,0.0,Mod_C,Mobile,4.0
+P0768,Payment,1.0,86.8514601356654,1.0,,1.0,0.0,Mod_B,Desktop,5.0
+P0769,Checkout,0.0,111.47252005415132,4.0,Input,4.0,0.0,Mod_C,Desktop,4.0
+P0770,Checkout,1.0,57.668376326726175,1.0,Input,1.0,1.0,Mod_A,Desktop,6.0
+P0771,Product Search,0.0,86.40974433468043,1.0,Navigation,4.0,0.0,Mod_C,Mobile,5.0
+P0772,Product Search,,108.83022028762038,0.0,None,1.0,0.0,Mod_A,Tablet,4.0
+P0773,Checkout,1.0,18.11932679768888,1.0,Input,2.0,0.0,Mod_C,Tablet,4.0
+P0774,Checkout,1.0,40.78522892583815,0.0,None,2.0,,Mod_B,Desktop,6.0
+P0775,Checkout,1.0,10.639176201117653,0.0,None,2.0,1.0,Mod_B,Desktop,5.0
+P0776,Checkout,0.0,141.27483530874832,3.0,System,2.0,0.0,Mod_A,Desktop,4.0
+P0777,Product Search,1.0,43.76533383588317,0.0,None,2.0,0.0,Mod_B,Mobile,6.0
+P0778,Checkout,0.0,61.69625438562829,2.0,Input,4.0,0.0,Mod_C,Mobile,6.0
+P0779,Account Setup,1.0,115.57657182495727,1.0,Navigation,1.0,1.0,Mod_A,Mobile,6.0
+P0780,Payment,0.0,203.4033148582924,1.0,,1.0,0.0,Mod_C,Desktop,6.0
+P0781,,1.0,80.55895039483131,5.0,System,2.0,1.0,Mod_C,Mobile,6.0
+P0782,Account Setup,1.0,45.531371969200904,1.0,Validation,2.0,0.0,Mod_A,Mobile,5.0
+P0783,Product Search,1.0,26.992639279604674,2.0,Navigation,2.0,1.0,Mod_B,Mobile,6.0
+P0784,Product Search,1.0,53.530529317252494,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0785,Product Search,1.0,47.051649240165546,0.0,None,3.0,0.0,Mod_B,Desktop,6.0
+P0786,Checkout,1.0,63.83918292555853,3.0,Validation,3.0,0.0,Mod_C,Tablet,4.0
+P0787,Product Search,1.0,107.95609796555804,0.0,None,2.0,0.0,Mod_B,Mobile,7.0
+P0788,Account Setup,1.0,30.762752230504997,0.0,None,2.0,1.0,Mod_B,Desktop,6.0
+P0789,Account Setup,1.0,6.040782602143572,1.0,System,1.0,0.0,Mod_A,Desktop,5.0
+P0790,Account Setup,0.0,311.3324182317275,0.0,None,2.0,0.0,Mod_A,Mobile,5.0
+P0791,Checkout,1.0,27.148489783947078,1.0,Navigation,1.0,0.0,Mod_B,Desktop,6.0
+P0792,Account Setup,,21.03417364107289,0.0,None,1.0,1.0,Mod_C,Tablet,7.0
+P0793,Checkout,1.0,25.95026319564418,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0794,Account Setup,0.0,228.765569701069,3.0,System,3.0,0.0,Mod_C,Desktop,7.0
+P0795,Account Setup,1.0,37.40860017694782,2.0,Validation,2.0,1.0,Mod_C,Desktop,6.0
+,Checkout,1.0,133.83874382417235,1.0,System,1.0,0.0,Mod_C,Mobile,5.0
+P0797,Account Setup,1.0,104.60851020892183,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0798,Checkout,1.0,29.833981266632545,0.0,None,2.0,0.0,Mod_C,Desktop,3.0
+P0799,Checkout,1.0,7.690378102770873,0.0,None,2.0,,Mod_C,Mobile,6.0
+P0800,Account Setup,1.0,18.37872936077973,0.0,None,1.0,0.0,Mod_C,Tablet,5.0
+P0801,Checkout,1.0,33.28147630976634,0.0,None,1.0,0.0,Mod_C,Desktop,5.0
+P0802,Checkout,1.0,57.31153639340815,0.0,None,,0.0,Mod_C,Tablet,3.0
+P0803,Account Setup,1.0,56.81521283185812,0.0,None,3.0,0.0,Mod_A,Desktop,6.0
+P0804,Account Setup,1.0,110.95765619677279,0.0,None,2.0,0.0,Mod_A,Desktop,3.0
+P0805,Account Setup,0.0,58.23310542479208,4.0,Navigation,4.0,0.0,Mod_B,Desktop,5.0
+P0806,Checkout,1.0,71.85144568993464,2.0,Input,1.0,0.0,Mod_C,Mobile,6.0
+P0807,Payment,1.0,97.20613269263566,1.0,Navigation,2.0,0.0,Mod_A,Mobile,5.0
+P0808,Account Setup,0.0,22.44822506164647,2.0,Navigation,3.0,0.0,Mod_B,Tablet,6.0
+P0809,Checkout,1.0,154.83491525769736,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0810,Account Setup,1.0,93.23201699267584,0.0,None,1.0,1.0,Mod_C,Desktop,6.0
+P0811,Checkout,1.0,7.831079370408008,0.0,None,2.0,0.0,Mod_B,Tablet,
+P0812,Payment,1.0,176.24105643630554,1.0,System,2.0,0.0,Mod_A,Mobile,6.0
+,Payment,0.0,100.92147408242676,1.0,Navigation,3.0,0.0,Mod_A,Mobile,4.0
+P0814,Checkout,1.0,28.174228044949963,0.0,None,1.0,0.0,Mod_B,Mobile,7.0
+P0815,Checkout,1.0,37.24997315859374,2.0,Validation,1.0,0.0,Mod_B,Tablet,7.0
+P0816,Account Setup,1.0,80.09444280731886,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0817,Checkout,1.0,114.1904697729056,1.0,Navigation,2.0,0.0,Mod_A,Desktop,5.0
+P0818,Payment,0.0,,2.0,Navigation,3.0,0.0,Mod_C,Mobile,6.0
+,Account Setup,1.0,,1.0,Input,1.0,0.0,Mod_B,Tablet,5.0
+P0820,Checkout,0.0,207.73759012070587,2.0,Navigation,2.0,1.0,Mod_C,Desktop,6.0
+,Account Setup,1.0,42.51393107146901,0.0,None,1.0,0.0,Mod_B,Tablet,6.0
+P0822,Product Search,1.0,88.72517190854525,0.0,None,3.0,0.0,Mod_C,Desktop,7.0
+P0823,Checkout,0.0,87.63498104181497,1.0,Input,3.0,0.0,Mod_A,Desktop,4.0
+P0824,Product Search,1.0,171.54515442314667,1.0,Validation,1.0,1.0,Mod_A,Mobile,6.0
+P0825,Checkout,1.0,80.0161953857154,0.0,None,1.0,0.0,Mod_B,Mobile,6.0
+P0826,Checkout,1.0,46.11363493767305,1.0,Navigation,1.0,0.0,Mod_A,Mobile,5.0
+P0827,Checkout,1.0,59.98151300806995,1.0,System,3.0,1.0,,Tablet,6.0
+P0828,Account Setup,0.0,190.23227588669855,2.0,Input,2.0,0.0,Mod_A,Desktop,5.0
+P0829,Checkout,0.0,235.42860360908315,4.0,Navigation,5.0,0.0,Mod_C,Mobile,5.0
+P0830,Product Search,1.0,90.79264835772332,0.0,None,1.0,1.0,Mod_A,Mobile,6.0
+P0831,Checkout,1.0,122.04642782664847,1.0,Validation,1.0,1.0,Mod_B,Desktop,6.0
+P0832,Account Setup,1.0,17.373738375489523,0.0,None,1.0,0.0,Mod_B,Tablet,7.0
+P0833,Account Setup,1.0,119.85370100583309,0.0,None,1.0,,Mod_B,Desktop,7.0
+P0834,Account Setup,1.0,,0.0,None,2.0,1.0,Mod_C,Mobile,3.0
+P0835,Payment,1.0,46.68163771054169,0.0,None,1.0,1.0,Mod_C,Desktop,7.0
+P0836,Checkout,0.0,,0.0,None,4.0,0.0,Mod_A,Desktop,6.0
+P0837,Account Setup,1.0,29.05158962491472,1.0,System,1.0,,Mod_B,Mobile,6.0
+P0838,Product Search,0.0,53.20545966513261,2.0,System,2.0,0.0,Mod_A,Tablet,6.0
+P0839,Payment,1.0,49.54039007485112,0.0,None,2.0,0.0,Mod_A,Tablet,6.0
+P0840,Account Setup,1.0,148.3126857535861,0.0,None,1.0,1.0,Mod_A,Mobile,3.0
+P0841,Account Setup,0.0,27.73484027838569,0.0,None,3.0,0.0,Mod_A,Desktop,5.0
+P0842,Account Setup,1.0,71.45505924852372,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0843,Account Setup,1.0,,2.0,Validation,,1.0,Mod_C,Desktop,5.0
+P0844,Account Setup,1.0,17.714544255124487,0.0,None,1.0,1.0,Mod_B,Desktop,6.0
+P0845,Account Setup,1.0,38.833777573969186,0.0,None,2.0,0.0,Mod_A,Desktop,6.0
+P0846,Payment,1.0,48.256269126672755,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+P0847,Checkout,1.0,31.350840104548595,3.0,Input,2.0,1.0,Mod_C,Desktop,6.0
+P0848,Checkout,1.0,47.00032412445868,1.0,Input,1.0,1.0,Mod_B,,5.0
+P0849,,0.0,8.044987580608694,1.0,System,5.0,0.0,Mod_C,Desktop,6.0
+P0850,Account Setup,1.0,44.75332568170057,,Input,1.0,1.0,Mod_B,Desktop,5.0
+P0851,Checkout,1.0,79.74497860918481,0.0,None,,1.0,Mod_A,Desktop,5.0
+P0852,Account Setup,1.0,24.430840786443532,1.0,Input,1.0,0.0,Mod_B,Mobile,6.0
+P0853,Product Search,0.0,70.23288240574843,4.0,Input,2.0,0.0,Mod_C,Desktop,5.0
+P0854,Account Setup,1.0,13.782357088782804,1.0,Input,1.0,0.0,Mod_A,Mobile,7.0
+P0855,Product Search,1.0,15.743108903040158,1.0,Input,2.0,0.0,Mod_B,,5.0
+P0856,Checkout,1.0,18.023916375125232,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0857,Account Setup,1.0,75.2120798650424,0.0,None,1.0,1.0,Mod_B,Tablet,7.0
+P0858,Account Setup,1.0,83.44507171548217,0.0,None,1.0,1.0,Mod_A,Desktop,5.0
+P0859,Product Search,1.0,66.1749679523826,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0860,Checkout,1.0,285.0694772687298,0.0,None,2.0,0.0,Mod_C,Desktop,4.0
+P0861,Checkout,,37.02277075538535,2.0,System,4.0,0.0,Mod_A,Desktop,6.0
+P0862,Payment,1.0,169.89774542772227,0.0,None,3.0,1.0,Mod_A,Desktop,7.0
+P0863,Account Setup,1.0,90.52750977483115,1.0,Validation,2.0,0.0,Mod_A,Tablet,6.0
+P0864,Product Search,1.0,68.84901540891421,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0865,Product Search,1.0,57.94986419359071,0.0,None,3.0,0.0,Mod_A,Desktop,4.0
+P0866,Account Setup,1.0,22.4527040394369,2.0,System,3.0,1.0,Mod_B,Desktop,5.0
+P0867,Account Setup,1.0,60.72802494861061,1.0,System,3.0,0.0,,Mobile,5.0
+P0868,Account Setup,1.0,163.5867818552714,0.0,None,1.0,0.0,Mod_C,Mobile,7.0
+P0869,Checkout,1.0,85.58694214418867,2.0,Input,1.0,0.0,Mod_A,Desktop,
+P0870,Payment,0.0,33.595641591079804,2.0,Navigation,2.0,1.0,Mod_C,Desktop,6.0
+P0871,Payment,1.0,68.35384470041429,2.0,,1.0,0.0,Mod_C,Tablet,6.0
+P0872,Account Setup,1.0,73.2592804621821,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0873,Payment,1.0,146.02295830330021,2.0,Validation,1.0,0.0,Mod_A,Desktop,7.0
+P0874,Payment,1.0,304.03209030083156,0.0,None,2.0,0.0,Mod_C,Desktop,6.0
+,,1.0,48.24639086295821,1.0,System,1.0,1.0,,Desktop,5.0
+P0876,Account Setup,0.0,104.77223211444868,2.0,Input,1.0,0.0,Mod_B,Mobile,7.0
+P0877,Payment,1.0,28.77238609098252,1.0,System,1.0,0.0,Mod_B,Tablet,7.0
+P0878,Payment,1.0,7.31900417952917,1.0,Navigation,3.0,0.0,Mod_C,Mobile,5.0
+P0879,Checkout,1.0,22.856651037723125,0.0,None,3.0,0.0,Mod_C,Desktop,5.0
+P0880,Checkout,1.0,93.83400032811373,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0881,Account Setup,1.0,92.77809515884633,1.0,System,1.0,0.0,Mod_A,Desktop,5.0
+P0882,Product Search,1.0,27.035444158762083,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0883,Payment,1.0,89.7777435537813,0.0,None,1.0,0.0,Mod_B,Tablet,6.0
+P0884,Account Setup,0.0,65.76815127213287,5.0,Navigation,4.0,0.0,Mod_A,Desktop,4.0
+P0885,Payment,1.0,28.676067999441184,0.0,None,1.0,0.0,Mod_A,Mobile,5.0
+P0886,Checkout,1.0,179.02259393792522,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0887,Checkout,1.0,23.43013102452724,1.0,System,2.0,1.0,Mod_B,Desktop,4.0
+P0888,Account Setup,1.0,82.99217754681393,0.0,None,2.0,0.0,Mod_A,Mobile,6.0
+P0889,Checkout,1.0,44.07670204887518,0.0,None,1.0,0.0,Mod_A,,5.0
+P0890,Account Setup,,38.309775383452354,0.0,None,1.0,1.0,Mod_A,Tablet,5.0
+P0891,Account Setup,0.0,233.90576210350076,2.0,Input,4.0,0.0,Mod_C,Mobile,7.0
+P0892,Account Setup,,109.04876930197133,1.0,Navigation,1.0,0.0,Mod_B,Tablet,7.0
+P0893,Account Setup,0.0,90.39987394025242,3.0,Input,3.0,0.0,Mod_C,Desktop,7.0
+P0894,Payment,1.0,178.00151140630004,1.0,Input,1.0,1.0,Mod_C,Desktop,7.0
+P0895,Payment,1.0,,2.0,Input,1.0,0.0,Mod_C,Desktop,4.0
+P0896,Checkout,1.0,21.75850002211555,0.0,None,3.0,0.0,Mod_A,Desktop,5.0
+P0897,Payment,0.0,85.1332416502026,1.0,Validation,4.0,0.0,Mod_C,Mobile,6.0
+P0898,Checkout,1.0,48.76903391898194,2.0,System,1.0,1.0,Mod_A,Desktop,4.0
+P0899,Product Search,1.0,,,None,,0.0,Mod_B,Desktop,5.0
+P0900,Checkout,1.0,48.44818810084249,0.0,None,2.0,1.0,Mod_C,,6.0
+P0901,Checkout,1.0,51.77941525669457,1.0,Navigation,1.0,0.0,Mod_B,Tablet,7.0
+P0902,Product Search,1.0,53.092483792815976,1.0,System,1.0,,Mod_C,Tablet,6.0
+P0903,Account Setup,1.0,123.17852349980275,0.0,None,1.0,1.0,Mod_A,Mobile,7.0
+P0904,Checkout,1.0,160.7847651150916,1.0,Validation,1.0,1.0,Mod_B,Mobile,7.0
+P0905,Product Search,0.0,116.28148377548965,3.0,Navigation,2.0,1.0,Mod_A,Desktop,7.0
+P0906,Checkout,1.0,38.11333438508251,0.0,None,3.0,0.0,Mod_C,Desktop,6.0
+P0907,Account Setup,0.0,273.00604585728956,4.0,Validation,5.0,0.0,Mod_C,Mobile,6.0
+P0908,Payment,0.0,62.89869582052632,2.0,Navigation,4.0,0.0,Mod_A,Mobile,7.0
+P0909,Account Setup,1.0,19.275970698374636,0.0,None,1.0,0.0,Mod_A,,6.0
+P0910,Checkout,1.0,19.974765516407963,0.0,None,1.0,0.0,Mod_A,Mobile,
+P0911,Product Search,1.0,42.58593105258143,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0912,Product Search,1.0,13.616965269031827,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0913,Payment,1.0,27.69963592190076,1.0,Navigation,1.0,0.0,Mod_A,Desktop,5.0
+P0914,Account Setup,1.0,20.333447117527005,1.0,Navigation,2.0,0.0,Mod_A,Mobile,3.0
+P0915,Account Setup,0.0,165.04549454047987,1.0,Input,1.0,1.0,Mod_A,Tablet,7.0
+P0916,Product Search,0.0,247.98134091169305,1.0,Navigation,,1.0,Mod_A,Desktop,5.0
+,Payment,1.0,20.005524596858102,0.0,None,1.0,0.0,Mod_C,Tablet,7.0
+P0918,Checkout,1.0,29.35051079032782,1.0,Navigation,1.0,1.0,Mod_C,Mobile,7.0
+P0919,Payment,1.0,54.26319397295722,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+,Payment,0.0,9.040842577191224,4.0,Input,3.0,0.0,Mod_B,Desktop,5.0
+P0921,Account Setup,1.0,50.72154218126685,0.0,None,2.0,0.0,Mod_C,Mobile,6.0
+P0922,Payment,1.0,29.557614892857746,0.0,None,1.0,0.0,Mod_A,Tablet,6.0
+P0923,Account Setup,0.0,69.5694115726163,2.0,System,3.0,0.0,Mod_A,Mobile,6.0
+P0924,Account Setup,1.0,21.5466436883846,0.0,None,1.0,0.0,Mod_B,Mobile,5.0
+P0925,Product Search,1.0,46.42324905412671,0.0,None,2.0,0.0,Mod_B,Desktop,5.0
+P0926,Account Setup,1.0,326.13261245234025,2.0,System,1.0,1.0,Mod_B,Desktop,6.0
+P0927,Checkout,1.0,86.4514168026558,0.0,None,3.0,1.0,Mod_A,Desktop,6.0
+P0928,Account Setup,0.0,112.02536572274583,4.0,Validation,3.0,0.0,Mod_B,Desktop,6.0
+P0929,Product Search,1.0,33.61615290238707,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0930,Payment,1.0,39.21457976362301,1.0,Input,1.0,0.0,Mod_A,Mobile,7.0
+P0931,Product Search,1.0,131.1267719020475,1.0,Validation,1.0,1.0,Mod_A,Mobile,5.0
+P0932,Product Search,1.0,53.00721465061543,0.0,None,1.0,0.0,Mod_C,Mobile,5.0
+P0933,Account Setup,1.0,64.43167605631356,0.0,None,1.0,0.0,Mod_A,Mobile,
+P0934,Product Search,0.0,56.84024893842654,0.0,None,2.0,0.0,Mod_A,Mobile,6.0
+P0935,Checkout,1.0,51.46864122465099,0.0,None,3.0,,Mod_A,Desktop,6.0
+P0936,Payment,1.0,73.42007926228332,0.0,None,1.0,1.0,Mod_B,Tablet,4.0
+P0937,Checkout,0.0,110.87670528495694,,Input,5.0,0.0,Mod_A,Desktop,3.0
+P0938,Account Setup,0.0,235.88743187520913,3.0,Navigation,4.0,1.0,Mod_A,Desktop,3.0
+P0939,Account Setup,1.0,104.24689529086028,2.0,System,2.0,0.0,Mod_A,Desktop,6.0
+P0940,Payment,0.0,211.84690873295318,2.0,System,2.0,0.0,Mod_B,Tablet,7.0
+P0941,Payment,1.0,29.71562311741949,3.0,Input,3.0,0.0,,Tablet,5.0
+P0942,Checkout,1.0,23.389052066074196,1.0,Validation,1.0,0.0,Mod_B,Desktop,6.0
+P0943,Checkout,1.0,59.91103850182006,0.0,None,1.0,0.0,Mod_A,Mobile,7.0
+P0944,Checkout,1.0,181.03688143247038,0.0,None,3.0,0.0,Mod_B,Tablet,7.0
+,Account Setup,1.0,77.90647938245262,1.0,Input,3.0,0.0,Mod_A,Desktop,
+P0946,Account Setup,1.0,45.13298538346815,0.0,,1.0,0.0,Mod_C,Desktop,5.0
+P0947,Account Setup,1.0,64.41073772707279,1.0,Navigation,3.0,0.0,Mod_A,Tablet,5.0
+P0948,Account Setup,1.0,45.82984598935655,0.0,None,2.0,0.0,Mod_C,Mobile,7.0
+P0949,Payment,1.0,56.56674530881952,0.0,None,2.0,1.0,Mod_B,Desktop,6.0
+P0950,Product Search,1.0,40.56436551379511,0.0,None,1.0,0.0,Mod_B,Desktop,5.0
+P0951,Checkout,1.0,78.17147655524285,0.0,None,1.0,0.0,Mod_B,Mobile,7.0
+P0952,Checkout,1.0,101.2700685120461,2.0,Navigation,1.0,1.0,Mod_B,Mobile,6.0
+P0953,Checkout,1.0,71.29123286284899,2.0,Validation,2.0,1.0,Mod_C,Mobile,3.0
+P0954,Product Search,1.0,95.39987994356738,1.0,System,3.0,0.0,Mod_B,Desktop,6.0
+P0955,Payment,1.0,93.85626552936604,1.0,Navigation,1.0,0.0,Mod_B,Tablet,6.0
+P0956,Checkout,,180.8941342320874,4.0,Navigation,5.0,1.0,Mod_A,Desktop,7.0
+P0957,,1.0,12.85476760531867,1.0,Validation,1.0,0.0,Mod_A,Tablet,
+P0958,Account Setup,1.0,69.53023730053357,1.0,Validation,1.0,1.0,Mod_A,Desktop,5.0
+P0959,Account Setup,1.0,69.9205267424294,0.0,None,1.0,1.0,Mod_B,Desktop,5.0
+P0960,Checkout,0.0,213.5071125807366,2.0,System,2.0,,,Mobile,7.0
+P0961,Product Search,1.0,80.00209985340008,2.0,Validation,1.0,0.0,Mod_A,Desktop,6.0
+P0962,Product Search,1.0,129.24651356534062,1.0,System,3.0,0.0,Mod_C,Desktop,4.0
+P0963,Checkout,1.0,61.519191747426,1.0,Input,2.0,0.0,Mod_A,Desktop,3.0
+P0964,Payment,1.0,103.70575084848691,1.0,System,1.0,0.0,Mod_A,Mobile,6.0
+P0965,Account Setup,1.0,408.3064566764511,0.0,None,1.0,1.0,Mod_A,Tablet,6.0
+P0966,Account Setup,1.0,12.33260774704048,1.0,Input,1.0,0.0,Mod_B,Desktop,7.0
+P0967,Account Setup,0.0,49.75839680380113,1.0,System,1.0,0.0,Mod_B,,4.0
+P0968,Checkout,1.0,95.65271208193612,0.0,None,2.0,1.0,Mod_A,Desktop,5.0
+,Account Setup,0.0,264.58450788928747,1.0,Navigation,4.0,0.0,Mod_B,Desktop,7.0
+P0970,Checkout,1.0,28.21023185154607,0.0,None,1.0,1.0,Mod_C,Desktop,5.0
+P0971,Product Search,1.0,14.827366426862946,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0972,Payment,1.0,55.83285944625177,1.0,Input,1.0,1.0,Mod_C,Mobile,6.0
+P0973,Checkout,1.0,37.822366722481455,0.0,None,1.0,0.0,Mod_B,Desktop,4.0
+P0974,Account Setup,1.0,48.41363273997767,0.0,None,1.0,0.0,Mod_B,Tablet,6.0
+P0975,Checkout,1.0,42.63039041619753,0.0,None,1.0,0.0,,Mobile,6.0
+P0976,Account Setup,1.0,101.96119275057248,2.0,Navigation,1.0,0.0,Mod_C,Tablet,7.0
+P0977,Account Setup,1.0,18.438250430419867,0.0,None,1.0,0.0,Mod_C,Desktop,6.0
+P0978,Payment,1.0,31.72357889895975,0.0,None,1.0,0.0,Mod_B,Desktop,6.0
+P0979,Product Search,1.0,,0.0,None,1.0,0.0,Mod_A,Mobile,6.0
+P0980,Checkout,1.0,49.40000245734037,0.0,None,1.0,0.0,Mod_A,Desktop,4.0
+P0981,Product Search,1.0,33.43278736684508,1.0,Validation,1.0,0.0,Mod_A,Desktop,3.0
+P0982,Checkout,1.0,28.33340433622282,1.0,System,1.0,0.0,,Desktop,4.0
+P0983,Account Setup,0.0,154.74157027329173,3.0,System,3.0,0.0,Mod_C,Desktop,5.0
+P0984,Checkout,1.0,34.83425734869981,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0985,Product Search,1.0,39.178061546680475,0.0,None,2.0,0.0,Mod_B,Tablet,5.0
+P0986,Checkout,1.0,250.9702294649373,0.0,None,,0.0,Mod_B,Mobile,6.0
+P0987,Account Setup,1.0,145.85566468299479,0.0,,1.0,1.0,Mod_A,Desktop,7.0
+P0988,Account Setup,0.0,132.61929426067832,5.0,Validation,2.0,0.0,Mod_C,Desktop,5.0
+P0989,Account Setup,1.0,98.10157233680502,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0990,Checkout,1.0,93.68416584977243,1.0,System,1.0,0.0,Mod_A,Desktop,6.0
+P0991,Payment,1.0,101.01551552814033,0.0,None,2.0,0.0,Mod_C,Desktop,7.0
+P0992,,1.0,124.6294332826229,1.0,Navigation,1.0,0.0,Mod_A,Desktop,7.0
+P0993,Checkout,1.0,125.90668612633678,0.0,None,1.0,0.0,Mod_B,Desktop,7.0
+P0994,Checkout,1.0,44.56217400740057,1.0,Navigation,2.0,0.0,Mod_B,Mobile,6.0
+P0995,Payment,1.0,22.508886254532307,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P0996,Payment,1.0,19.917232678346867,0.0,None,1.0,0.0,Mod_C,Desktop,7.0
+P0997,Checkout,1.0,,0.0,None,2.0,0.0,Mod_B,Mobile,3.0
+P0998,Checkout,1.0,34.319265965334196,0.0,None,1.0,0.0,Mod_A,Desktop,7.0
+P0999,Payment,1.0,220.9538911726612,0.0,None,1.0,0.0,Mod_A,Desktop,6.0
+P1000,Payment,1.0,32.610177376960294,1.0,System,1.0,1.0,Mod_B,Tablet,6.0

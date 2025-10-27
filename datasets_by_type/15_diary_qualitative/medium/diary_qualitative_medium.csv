@@ -1,0 +1,201 @@
+Participant_ID,Entry_Date,Prompt,Response_Text,Emotion_Label,Sentiment_Score,Word_Count,Theme_Code,Device_Used,Environment,Follow_Up_Flag
+P0001,2024-01-27,Weekly_Summary,The design is visually appealing but functionality needs work.,Negative,-1.0,117.0,Performance,Mobile,Other,1.0
+P0002,2024-01-10,Afternoon_Activity,The design is visually appealing but functionality needs work.,Positive,0.8333763941845754,117.0,Aesthetics,Desktop,Office,
+P0003,2024-01-18,Evening_Reflection,"Overall positive experience, would recommend.",Mixed,-0.5572224305351798,136.0,Value,Mobile,Other,0.0
+P0004,2024-01-22,Evening_Reflection,The design is visually appealing but functionality needs work.,Mixed,-0.18111321547140197,95.0,Value,Desktop,Office,1.0
+P0005,2024-01-06,Morning_Routine,Frustrated with the number of steps required.,Negative,-0.532075639797656,26.0,,Desktop,Home,0.0
+P0006,2024-01-03,,,Mixed,-0.7143921265320785,78.0,Value,Mobile,Transit,0.0
+P0007,2024-01-26,Morning_Routine,"Overall positive experience, would recommend.",Neutral,-0.3502698359752908,72.0,,Tablet,Office,0.0
+P0008,2024-01-21,Morning_Routine,Frustrated with the number of steps required.,Mixed,-0.2945640412138698,264.0,Value,Mobile,Home,0.0
+P0009,2024-01-27,Morning_Routine,The design is visually appealing but functionality needs work.,Positive,0.6296351750868225,36.0,Value,Mobile,Home,
+P0010,2024-01-09,Afternoon_Activity,Frustrated with the number of steps required.,Positive,0.8332439603078031,22.0,Performance,Tablet,Other,0.0
+P0011,2024-01-01,Weekly_Summary,Experienced some lag during peak hours.,Neutral,-0.16194031349830884,240.0,Performance,Desktop,Other,1.0
+,2024-01-10,Evening_Reflection,Experienced some lag during peak hours.,Negative,-0.9004392263123842,143.0,Emotional_Response,Mobile,Home,0.0
+P0013,2024-01-26,Morning_Routine,The design is visually appealing but functionality needs work.,Positive,0.7503561612577011,36.0,Performance,Desktop,Other,0.0
+P0014,2024-01-08,Evening_Reflection,Experienced some lag during peak hours.,Positive,0.5516394809804688,39.0,Aesthetics,Tablet,Office,0.0
+P0015,2024-01-01,Morning_Routine,Found the interface intuitive and easy to navigate.,Positive,0.8678775367134947,86.0,Usability,Tablet,Office,0.0
+P0016,2024-01-22,Evening_Reflection,"Overall positive experience, would recommend.",Positive,1.0,23.0,Value,Mobile,Transit,0.0
+P0017,2024-01-28,Weekly_Summary,The design is visually appealing but functionality needs work.,Positive,0.2850762957998543,,Emotional_Response,Desktop,Office,0.0
+P0018,2024-01-17,Weekly_Summary,The design is visually appealing but functionality needs work.,Positive,0.26701347602212805,24.0,Performance,Desktop,Transit,1.0
+P0019,2024-01-26,Morning_Routine,Experienced some lag during peak hours.,Negative,-1.0,18.0,Usability,Mobile,Other,0.0
+P0020,2024-01-21,Weekly_Summary,Experienced some lag during peak hours.,Neutral,-0.15965482199532607,36.0,Aesthetics,Desktop,Home,0.0
+P0021,2024-01-25,Weekly_Summary,"Overall positive experience, would recommend.",Positive,0.19879515581330698,42.0,Value,Mobile,Office,1.0
+P0022,2024-01-05,Weekly_Summary,Frustrated with the number of steps required.,Positive,,36.0,Value,Desktop,Home,1.0
+P0023,2024-01-06,Weekly_Summary,The design is visually appealing but functionality needs work.,Mixed,-0.9411893241953571,40.0,Usability,Desktop,Other,0.0
+P0024,2024-01-18,Weekly_Summary,The design is visually appealing but functionality needs work.,Negative,-1.0,153.0,Performance,Tablet,Transit,0.0
+P0025,2024-01-19,Afternoon_Activity,"Overall positive experience, would recommend.",Negative,-0.7482686445951932,90.0,Emotional_Response,Tablet,Office,0.0
+P0026,2024-01-16,Afternoon_Activity,Frustrated with the number of steps required.,Positive,0.6532467982378647,50.0,Aesthetics,Desktop,Other,0.0
+P0027,2024-01-01,Weekly_Summary,Frustrated with the number of steps required.,Neutral,-0.14957520168011815,61.0,Value,Desktop,Transit,0.0
+P0028,2024-01-03,Afternoon_Activity,Experienced some lag during peak hours.,Negative,-0.505186789839729,61.0,Usability,Tablet,Transit,0.0
+P0029,2024-01-07,Evening_Reflection,"Overall positive experience, would recommend.",Neutral,0.5020587091342779,130.0,Emotional_Response,Tablet,Office,
+P0030,2024-01-23,Morning_Routine,Found the interface intuitive and easy to navigate.,Negative,-0.6532383061214607,22.0,,Tablet,Transit,0.0
+P0031,2024-01-09,Weekly_Summary,Experienced some lag during peak hours.,Neutral,0.0354754915334916,36.0,Usability,Mobile,Office,0.0
+P0032,2024-01-04,Weekly_Summary,"Overall positive experience, would recommend.",Neutral,0.2406548176547304,57.0,Aesthetics,Desktop,Home,0.0
+P0033,2024-01-23,Morning_Routine,Frustrated with the number of steps required.,Mixed,-0.17345238810257185,16.0,Emotional_Response,Desktop,Home,0.0
+P0034,2024-01-03,Afternoon_Activity,Frustrated with the number of steps required.,Positive,1.0,45.0,Aesthetics,Mobile,Home,0.0
+P0035,2024-01-03,Evening_Reflection,Experienced some lag during peak hours.,Neutral,-0.29768038013473525,273.0,Performance,Mobile,Transit,1.0
+P0036,2024-01-02,Weekly_Summary,The design is visually appealing but functionality needs work.,Negative,-1.0,35.0,Performance,Tablet,Transit,0.0
+P0037,2024-01-10,Weekly_Summary,Frustrated with the number of steps required.,Mixed,-0.20904563087397976,83.0,Performance,Tablet,Transit,0.0
+P0038,2024-01-14,Weekly_Summary,Experienced some lag during peak hours.,Negative,-0.914385926658431,27.0,Performance,Desktop,,0.0
+P0039,2024-01-06,Evening_Reflection,Found the interface intuitive and easy to navigate.,Negative,-0.7492445920493851,32.0,Aesthetics,Mobile,Transit,0.0
+P0040,2024-01-03,Weekly_Summary,Found the interface intuitive and easy to navigate.,Positive,0.7498961576694965,239.0,Value,Tablet,Home,0.0
+P0041,2024-01-26,Evening_Reflection,Experienced some lag during peak hours.,Mixed,-0.09382987780649188,37.0,,Desktop,Office,1.0
+P0042,2024-01-29,Afternoon_Activity,The design is visually appealing but functionality needs work.,Neutral,0.1980526057457134,63.0,Usability,Desktop,Home,0.0
+P0043,2024-01-03,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Neutral,-0.20393347294496725,31.0,Emotional_Response,Mobile,Home,1.0
+P0044,2024-01-23,Weekly_Summary,"Overall positive experience, would recommend.",Negative,-0.349821754076624,37.0,Usability,Mobile,Office,0.0
+P0045,2024-01-28,Weekly_Summary,Frustrated with the number of steps required.,Negative,-0.7301858715653974,34.0,Emotional_Response,Mobile,Office,0.0
+P0046,2024-01-12,Weekly_Summary,Found the interface intuitive and easy to navigate.,Neutral,-0.15816713372371174,114.0,Aesthetics,Tablet,Other,0.0
+P0047,2024-01-08,Weekly_Summary,Found the interface intuitive and easy to navigate.,Positive,0.54802490797507,36.0,Usability,,Office,0.0
+P0048,2024-01-01,Morning_Routine,Frustrated with the number of steps required.,Positive,,107.0,Value,Tablet,Other,0.0
+P0049,2024-01-10,Weekly_Summary,Frustrated with the number of steps required.,,0.020681326324403032,22.0,Performance,Desktop,Transit,0.0
+P0050,,Morning_Routine,Found the interface intuitive and easy to navigate.,Positive,0.7120221727462764,44.0,Emotional_Response,Tablet,Other,0.0
+P0051,2024-01-06,Weekly_Summary,Frustrated with the number of steps required.,Positive,1.0,43.0,Aesthetics,Desktop,Transit,1.0
+P0052,2024-01-02,Weekly_Summary,Experienced some lag during peak hours.,Negative,-0.8854441329704588,86.0,Performance,Desktop,Other,0.0
+P0053,2024-01-23,Weekly_Summary,Found the interface intuitive and easy to navigate.,Positive,0.8050038698874071,46.0,Usability,Desktop,Office,0.0
+P0054,2024-01-10,Afternoon_Activity,Frustrated with the number of steps required.,Negative,-0.43567829339882463,169.0,Emotional_Response,Desktop,Transit,0.0
+P0055,2024-01-24,Morning_Routine,"Overall positive experience, would recommend.",Positive,0.430463014939457,348.0,Emotional_Response,Desktop,Home,1.0
+P0056,2024-01-17,Afternoon_Activity,Frustrated with the number of steps required.,Negative,-0.9081651005740464,46.0,Value,Tablet,Transit,0.0
+P0057,2024-01-03,Evening_Reflection,"Overall positive experience, would recommend.",Mixed,0.4586913151499095,20.0,Usability,Mobile,Other,0.0
+P0058,2024-01-17,Weekly_Summary,Frustrated with the number of steps required.,Positive,0.7320861226889787,138.0,Emotional_Response,Tablet,,0.0
+P0059,2024-01-06,Weekly_Summary,The design is visually appealing but functionality needs work.,Positive,0.5005801478639889,113.0,Usability,Mobile,Transit,0.0
+P0060,2024-01-16,Evening_Reflection,Frustrated with the number of steps required.,Negative,-1.0,49.0,Aesthetics,Mobile,Other,0.0
+P0061,2024-01-02,Afternoon_Activity,The design is visually appealing but functionality needs work.,Neutral,0.14592846554664166,80.0,Usability,Tablet,Other,0.0
+P0062,2024-01-30,Weekly_Summary,Experienced some lag during peak hours.,Positive,0.9397126636830506,35.0,Performance,Mobile,Office,0.0
+P0063,2024-01-29,Evening_Reflection,"Overall positive experience, would recommend.",Positive,1.0,207.0,Usability,Desktop,Home,1.0
+P0064,2024-01-29,Evening_Reflection,,Mixed,0.20144864530990333,49.0,Usability,Desktop,Home,0.0
+P0065,2024-01-08,Morning_Routine,"Overall positive experience, would recommend.",Mixed,-0.8563012507652752,20.0,Performance,Mobile,Home,0.0
+P0066,2024-01-06,Evening_Reflection,Frustrated with the number of steps required.,Neutral,0.28353976424185184,16.0,Emotional_Response,Tablet,Transit,0.0
+P0067,2024-01-19,Morning_Routine,Found the interface intuitive and easy to navigate.,Mixed,0.5270894458815661,26.0,Usability,Tablet,Other,0.0
+P0068,2024-01-21,Afternoon_Activity,Found the interface intuitive and easy to navigate.,,0.8421364263715142,,Usability,Tablet,Other,0.0
+P0069,2024-01-01,Weekly_Summary,The design is visually appealing but functionality needs work.,Positive,0.658185624490077,,Value,Mobile,Home,
+P0070,2024-01-03,Evening_Reflection,Experienced some lag during peak hours.,Negative,-0.5746264780775306,41.0,,Desktop,Transit,0.0
+P0071,2024-01-24,Evening_Reflection,Found the interface intuitive and easy to navigate.,Mixed,-0.2715975681080696,22.0,,Mobile,Transit,0.0
+P0072,2024-01-23,Morning_Routine,Frustrated with the number of steps required.,Mixed,-0.04480126078172098,74.0,Emotional_Response,Desktop,Home,0.0
+P0073,2024-01-17,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Neutral,0.05884974367446164,70.0,Performance,Desktop,Transit,0.0
+P0074,2024-01-07,Weekly_Summary,Frustrated with the number of steps required.,Negative,-0.9415539540490946,21.0,Usability,Tablet,Other,1.0
+P0075,2024-01-21,Evening_Reflection,Experienced some lag during peak hours.,Positive,0.231670694717008,130.0,Aesthetics,Desktop,Transit,0.0
+P0076,2024-01-08,Evening_Reflection,,Neutral,-0.1438940599134953,9.0,Aesthetics,Mobile,Other,0.0
+P0077,2024-01-10,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Neutral,-0.054033437024783595,50.0,Emotional_Response,Tablet,Office,0.0
+P0078,2024-01-23,Afternoon_Activity,The design is visually appealing but functionality needs work.,Neutral,0.1771264889062908,23.0,Aesthetics,Mobile,Home,0.0
+P0079,2024-01-25,Afternoon_Activity,Frustrated with the number of steps required.,Negative,-0.5242717350468931,87.0,Usability,Mobile,Other,1.0
+P0080,2024-01-03,Morning_Routine,Frustrated with the number of steps required.,Positive,0.8956753485028635,43.0,Usability,Desktop,Other,0.0
+P0081,2024-01-05,Weekly_Summary,The design is visually appealing but functionality needs work.,Positive,0.6099536338264854,22.0,Performance,Mobile,Home,0.0
+P0082,2024-01-01,Weekly_Summary,Experienced some lag during peak hours.,Neutral,0.05287522123459515,71.0,Emotional_Response,Mobile,Other,1.0
+P0083,2024-01-25,Morning_Routine,The design is visually appealing but functionality needs work.,Negative,-0.5324323519679187,100.0,Performance,Desktop,Other,1.0
+P0084,2024-01-19,Evening_Reflection,The design is visually appealing but functionality needs work.,Mixed,-0.5671087528421227,190.0,Performance,Mobile,Other,0.0
+P0085,2024-01-16,Weekly_Summary,Frustrated with the number of steps required.,Positive,0.6183787007223078,36.0,Emotional_Response,Desktop,Other,0.0
+P0086,2024-01-11,Morning_Routine,The design is visually appealing but functionality needs work.,Mixed,-0.06122866085979211,27.0,Performance,Desktop,Office,0.0
+P0087,2024-01-09,Weekly_Summary,Found the interface intuitive and easy to navigate.,Neutral,-0.29927000541075255,42.0,Usability,Desktop,Transit,0.0
+P0088,,Evening_Reflection,"Overall positive experience, would recommend.",Positive,0.9920717085677736,450.0,Aesthetics,Mobile,Transit,0.0
+P0089,2024-01-12,Morning_Routine,Frustrated with the number of steps required.,Mixed,0.16154946038914753,62.0,Performance,Tablet,Home,0.0
+P0090,2024-01-30,Morning_Routine,Found the interface intuitive and easy to navigate.,Neutral,-0.1360328549359286,62.0,Value,Tablet,Other,0.0
+P0091,2024-01-01,Morning_Routine,Experienced some lag during peak hours.,Neutral,0.21766568532314257,40.0,Emotional_Response,Desktop,Transit,0.0
+P0092,,Morning_Routine,Frustrated with the number of steps required.,Mixed,0.15931590242989757,23.0,Value,Tablet,Transit,0.0
+P0093,2024-01-14,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Negative,-0.1526727074201797,227.0,Performance,Mobile,Home,0.0
+P0094,2024-01-04,Afternoon_Activity,"Overall positive experience, would recommend.",Mixed,-0.19702420235972848,46.0,Emotional_Response,Tablet,Office,0.0
+P0095,2024-01-14,Evening_Reflection,Experienced some lag during peak hours.,Mixed,0.5112916079281147,116.0,Value,Desktop,Transit,0.0
+P0096,2024-01-19,Morning_Routine,Found the interface intuitive and easy to navigate.,Neutral,0.14694936032570813,23.0,Performance,Mobile,Transit,0.0
+P0097,2024-01-10,Morning_Routine,Found the interface intuitive and easy to navigate.,Negative,-1.0,47.0,Aesthetics,Mobile,Home,0.0
+P0098,2024-01-20,Morning_Routine,Experienced some lag during peak hours.,Negative,-0.9446106206451395,96.0,Performance,Mobile,Other,1.0
+P0099,2024-01-25,Morning_Routine,The design is visually appealing but functionality needs work.,Neutral,0.02425655223673512,55.0,Value,Mobile,Home,0.0
+P0100,2024-01-23,,Experienced some lag during peak hours.,Positive,1.0,34.0,Usability,Tablet,Office,0.0
+P0101,2024-01-03,Evening_Reflection,The design is visually appealing but functionality needs work.,Negative,-0.9460167943492114,294.0,Emotional_Response,Tablet,Office,0.0
+P0102,2024-01-06,Weekly_Summary,The design is visually appealing but functionality needs work.,Mixed,0.5816933975135762,53.0,Aesthetics,Desktop,Home,0.0
+P0103,2024-01-07,Morning_Routine,Frustrated with the number of steps required.,Negative,-0.5624830936772008,16.0,Usability,Desktop,Other,0.0
+P0104,2024-01-21,Morning_Routine,"Overall positive experience, would recommend.",Positive,0.6003958752597868,37.0,Aesthetics,Mobile,Other,0.0
+P0105,2024-01-22,Weekly_Summary,Found the interface intuitive and easy to navigate.,Positive,,49.0,Usability,Desktop,Home,1.0
+P0106,2024-01-17,Weekly_Summary,Experienced some lag during peak hours.,Mixed,-0.46772735623952794,65.0,Emotional_Response,Tablet,Transit,1.0
+P0107,2024-01-19,Evening_Reflection,Experienced some lag during peak hours.,Neutral,0.014373501524070551,107.0,Performance,Mobile,Other,0.0
+P0108,2024-01-02,Afternoon_Activity,Experienced some lag during peak hours.,Positive,0.8195082277213037,37.0,Emotional_Response,Desktop,Other,0.0
+P0109,2024-01-20,Evening_Reflection,Found the interface intuitive and easy to navigate.,Positive,-0.033183125175385415,,Emotional_Response,Desktop,Home,0.0
+P0110,2024-01-02,Afternoon_Activity,Experienced some lag during peak hours.,Negative,-0.688356851933068,7.0,Aesthetics,Tablet,Transit,1.0
+P0111,2024-01-15,Weekly_Summary,"Overall positive experience, would recommend.",Positive,0.4405564142984033,115.0,Value,Desktop,Home,0.0
+P0112,2024-01-29,,Found the interface intuitive and easy to navigate.,Mixed,-0.30419472246094276,26.0,Performance,Mobile,Home,0.0
+P0113,2024-01-05,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Neutral,-0.07350244847281072,34.0,Aesthetics,Mobile,Transit,0.0
+P0114,2024-01-04,Weekly_Summary,"Overall positive experience, would recommend.",Positive,0.520281316856804,15.0,Emotional_Response,Tablet,Home,0.0
+P0115,2024-01-12,Evening_Reflection,Frustrated with the number of steps required.,Negative,-1.0,148.0,Performance,Desktop,Office,0.0
+P0116,2024-01-18,Morning_Routine,The design is visually appealing but functionality needs work.,Negative,-0.8078802613254952,44.0,Performance,Tablet,Office,0.0
+P0117,2024-01-20,Morning_Routine,Experienced some lag during peak hours.,Negative,-0.26884922237174524,111.0,Aesthetics,Desktop,Home,0.0
+P0118,2024-01-15,Evening_Reflection,The design is visually appealing but functionality needs work.,Positive,0.5881756899251155,99.0,Usability,Mobile,Transit,0.0
+P0119,2024-01-06,Weekly_Summary,Frustrated with the number of steps required.,Mixed,0.42017848315930534,21.0,Performance,Mobile,Office,0.0
+P0120,2024-01-06,Weekly_Summary,Frustrated with the number of steps required.,Positive,0.3036604129522919,48.0,Value,Tablet,Transit,0.0
+P0121,2024-01-10,Weekly_Summary,Frustrated with the number of steps required.,Neutral,0.328422256488037,41.0,Value,Mobile,Home,
+P0122,2024-01-22,Weekly_Summary,Experienced some lag during peak hours.,Positive,0.5636079206825235,77.0,Aesthetics,Tablet,,0.0
+P0123,2024-01-08,Evening_Reflection,The design is visually appealing but functionality needs work.,Negative,-0.8888255429363126,77.0,Performance,Desktop,Other,0.0
+P0124,2024-01-10,Evening_Reflection,,Neutral,-0.2639857596135116,15.0,Value,Desktop,Other,0.0
+P0125,2024-01-02,Weekly_Summary,"Overall positive experience, would recommend.",Positive,0.689022269242016,46.0,Aesthetics,Mobile,Other,0.0
+,2024-01-26,Weekly_Summary,The design is visually appealing but functionality needs work.,Neutral,0.12714633483209717,60.0,Aesthetics,Tablet,Office,1.0
+P0127,2024-01-06,Weekly_Summary,The design is visually appealing but functionality needs work.,Mixed,-0.31967198415369863,23.0,Value,Mobile,Home,0.0
+P0128,2024-01-12,Morning_Routine,Found the interface intuitive and easy to navigate.,Neutral,-0.20498933297645966,48.0,,Desktop,Home,1.0
+P0129,2024-01-18,Evening_Reflection,Experienced some lag during peak hours.,Negative,-0.7405732310618343,191.0,Usability,Desktop,Home,0.0
+P0130,2024-01-17,Evening_Reflection,"Overall positive experience, would recommend.",Positive,,116.0,,Desktop,Other,1.0
+P0131,2024-01-01,Morning_Routine,"Overall positive experience, would recommend.",,0.993779519208715,34.0,Usability,,Other,0.0
+P0132,2024-01-07,Morning_Routine,"Overall positive experience, would recommend.",Neutral,-0.18774744642391675,89.0,Usability,Tablet,Office,1.0
+P0133,2024-01-05,Evening_Reflection,Experienced some lag during peak hours.,Neutral,-0.18854418567266878,20.0,Usability,Tablet,Other,1.0
+P0134,2024-01-02,Evening_Reflection,"Overall positive experience, would recommend.",Negative,-1.0,41.0,Usability,Tablet,Other,0.0
+P0135,2024-01-06,Morning_Routine,"Overall positive experience, would recommend.",Positive,1.0,71.0,Performance,Tablet,Transit,0.0
+P0136,2024-01-26,Weekly_Summary,"Overall positive experience, would recommend.",Positive,0.7791763984373241,243.0,Performance,Tablet,Home,0.0
+P0137,2024-01-12,Weekly_Summary,Experienced some lag during peak hours.,Mixed,0.6306323013222535,198.0,Value,Mobile,Office,0.0
+,2024-01-28,Evening_Reflection,Experienced some lag during peak hours.,Neutral,0.19258899767846546,228.0,Usability,Tablet,Home,0.0
+P0139,2024-01-17,Weekly_Summary,"Overall positive experience, would recommend.",Mixed,0.01188734915741447,44.0,Usability,Tablet,Home,0.0
+P0140,2024-01-04,Morning_Routine,Frustrated with the number of steps required.,Mixed,-0.14094000355648761,74.0,Performance,Desktop,Other,0.0
+P0141,2024-01-01,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Negative,-0.3999038424604286,78.0,Aesthetics,Tablet,Home,0.0
+P0142,2024-01-25,Afternoon_Activity,"Overall positive experience, would recommend.",Mixed,-0.9840780739436373,76.0,Aesthetics,Mobile,Transit,0.0
+P0143,2024-01-25,Weekly_Summary,,Positive,0.9938074838430381,127.0,Performance,Desktop,Office,1.0
+P0144,2024-01-16,Evening_Reflection,Experienced some lag during peak hours.,Positive,0.883284577048888,67.0,Emotional_Response,Desktop,Home,0.0
+P0145,2024-01-07,Evening_Reflection,"Overall positive experience, would recommend.",Negative,-1.0,21.0,Performance,Tablet,Transit,0.0
+P0146,,Weekly_Summary,The design is visually appealing but functionality needs work.,Mixed,0.2937840408834839,41.0,Aesthetics,Tablet,Other,0.0
+P0147,,Weekly_Summary,Experienced some lag during peak hours.,Positive,1.0,,Usability,Tablet,Other,0.0
+P0148,2024-01-05,Evening_Reflection,Found the interface intuitive and easy to navigate.,Neutral,-0.16609514120737082,25.0,Emotional_Response,Desktop,Transit,0.0
+P0149,2024-01-28,Morning_Routine,Experienced some lag during peak hours.,Positive,0.6256329799213665,115.0,Value,Desktop,Transit,0.0
+P0150,2024-01-28,Afternoon_Activity,Frustrated with the number of steps required.,Mixed,-1.0,19.0,Performance,Tablet,Transit,0.0
+P0151,2024-01-25,Afternoon_Activity,Frustrated with the number of steps required.,Mixed,0.0018966911909599551,174.0,Usability,Desktop,Transit,0.0
+P0152,2024-01-20,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Mixed,-0.06666488120544602,28.0,Value,Mobile,Office,0.0
+P0153,2024-01-14,Morning_Routine,The design is visually appealing but functionality needs work.,Neutral,0.1690291167889939,13.0,Performance,Desktop,Other,0.0
+P0154,2024-01-17,Afternoon_Activity,Experienced some lag during peak hours.,Positive,0.6854966552272602,71.0,Value,Tablet,Transit,0.0
+P0155,2024-01-02,Afternoon_Activity,The design is visually appealing but functionality needs work.,Positive,1.0,,Performance,Mobile,Transit,1.0
+P0156,2024-01-30,Morning_Routine,"Overall positive experience, would recommend.",Negative,-0.7481050646162954,13.0,Usability,Desktop,Transit,1.0
+P0157,2024-01-19,Morning_Routine,The design is visually appealing but functionality needs work.,Neutral,0.09655159806238023,100.0,Value,Mobile,Other,0.0
+P0158,2024-01-05,Afternoon_Activity,"Overall positive experience, would recommend.",Positive,0.9489260625490488,39.0,Value,Desktop,Other,0.0
+P0159,2024-01-02,Weekly_Summary,Frustrated with the number of steps required.,Mixed,-0.46360581914622306,22.0,Value,Desktop,Transit,0.0
+P0160,2024-01-28,Evening_Reflection,The design is visually appealing but functionality needs work.,Negative,-0.650586160625224,40.0,Usability,Tablet,Transit,0.0
+P0161,2024-01-19,Evening_Reflection,Experienced some lag during peak hours.,Neutral,-0.28420866458503496,4.0,Emotional_Response,Tablet,Office,0.0
+P0162,2024-01-08,Weekly_Summary,Frustrated with the number of steps required.,Mixed,-0.17850510744295245,31.0,Aesthetics,Desktop,Home,1.0
+P0163,2024-01-19,Afternoon_Activity,Frustrated with the number of steps required.,Positive,0.32696935125260806,112.0,Aesthetics,Mobile,Office,0.0
+P0164,2024-01-25,Weekly_Summary,Experienced some lag during peak hours.,Negative,-0.8510104560115153,130.0,Aesthetics,Desktop,Home,0.0
+P0165,2024-01-14,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Mixed,0.36562180805003486,102.0,Emotional_Response,Tablet,Home,0.0
+P0166,2024-01-27,Evening_Reflection,Found the interface intuitive and easy to navigate.,Mixed,-0.6961327357822298,45.0,Usability,Desktop,Office,1.0
+P0167,2024-01-24,Afternoon_Activity,"Overall positive experience, would recommend.",Mixed,-0.5076361271681792,129.0,Aesthetics,Desktop,Home,0.0
+P0168,2024-01-19,Afternoon_Activity,Experienced some lag during peak hours.,Positive,1.0,59.0,Performance,Desktop,Transit,1.0
+P0169,2024-01-24,Weekly_Summary,The design is visually appealing but functionality needs work.,Negative,-0.6407675053218751,73.0,Aesthetics,Desktop,Home,0.0
+P0170,2024-01-06,Evening_Reflection,The design is visually appealing but functionality needs work.,Mixed,0.07805626973986353,75.0,Aesthetics,Mobile,Home,0.0
+P0171,2024-01-20,Evening_Reflection,Experienced some lag during peak hours.,Mixed,0.20660522254283983,70.0,Value,Desktop,Transit,0.0
+P0172,2024-01-21,Evening_Reflection,The design is visually appealing but functionality needs work.,Mixed,0.0375754131975835,45.0,Value,Desktop,Home,0.0
+P0173,2024-01-18,Weekly_Summary,Found the interface intuitive and easy to navigate.,Mixed,0.2875408997690878,77.0,Performance,Mobile,Home,0.0
+P0174,2024-01-04,Evening_Reflection,Found the interface intuitive and easy to navigate.,Neutral,0.11574087460335887,120.0,Aesthetics,Tablet,Home,0.0
+P0175,2024-01-22,Evening_Reflection,Experienced some lag during peak hours.,Negative,-1.0,79.0,Usability,Tablet,Office,0.0
+P0176,2024-01-08,Weekly_Summary,Frustrated with the number of steps required.,Mixed,0.14396599569556923,7.0,Value,Tablet,Office,0.0
+P0177,2024-01-13,Evening_Reflection,Found the interface intuitive and easy to navigate.,Neutral,-0.3212560919405138,15.0,Performance,Mobile,Transit,1.0
+P0178,2024-01-20,Evening_Reflection,"Overall positive experience, would recommend.",Neutral,0.5302380272722677,146.0,Value,Tablet,Office,0.0
+P0179,2024-01-04,Evening_Reflection,Found the interface intuitive and easy to navigate.,Neutral,,12.0,Value,Mobile,Home,0.0
+P0180,2024-01-13,Morning_Routine,Found the interface intuitive and easy to navigate.,Negative,-0.14639233740963664,64.0,Value,Desktop,Transit,0.0
+P0181,2024-01-08,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Mixed,0.3144185842616745,32.0,Usability,Desktop,Other,0.0
+P0182,2024-01-30,Weekly_Summary,Found the interface intuitive and easy to navigate.,Neutral,-0.07339521323916455,197.0,Aesthetics,Desktop,Office,0.0
+P0183,2024-01-22,Evening_Reflection,Found the interface intuitive and easy to navigate.,Mixed,-0.5351951218422429,6.0,Performance,Mobile,Home,0.0
+P0184,2024-01-14,Evening_Reflection,Frustrated with the number of steps required.,Mixed,0.15687935365081307,87.0,Usability,Tablet,Other,0.0
+P0185,2024-01-26,Evening_Reflection,Experienced some lag during peak hours.,Negative,-0.01972295642414326,121.0,Aesthetics,Desktop,Transit,0.0
+P0186,2024-01-27,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Negative,-0.7623373766173289,,Emotional_Response,Mobile,Other,0.0
+P0187,2024-01-27,Evening_Reflection,Found the interface intuitive and easy to navigate.,Neutral,-0.12944707113171,14.0,Performance,Mobile,Home,0.0
+P0188,2024-01-18,Evening_Reflection,Experienced some lag during peak hours.,Neutral,-0.1481638913473769,96.0,Emotional_Response,Desktop,Office,0.0
+P0189,2024-01-07,Weekly_Summary,"Overall positive experience, would recommend.",Negative,-0.10609041860352801,55.0,Value,Tablet,Transit,0.0
+P0190,2024-01-04,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Negative,-0.2307563188006137,70.0,Value,Desktop,Other,0.0
+P0191,2024-01-30,Afternoon_Activity,Found the interface intuitive and easy to navigate.,Neutral,-0.06314317378111496,8.0,Aesthetics,Tablet,Other,0.0
+P0192,2024-01-27,Weekly_Summary,,Mixed,-0.4615737715150878,43.0,Value,Tablet,Office,0.0
+P0193,2024-01-29,Morning_Routine,Experienced some lag during peak hours.,Neutral,-0.0663319397710574,53.0,Value,Tablet,Transit,1.0
+P0194,2024-01-14,Weekly_Summary,Frustrated with the number of steps required.,Mixed,0.6567541504824599,,Emotional_Response,Desktop,Home,0.0
+P0195,2024-01-26,Evening_Reflection,"Overall positive experience, would recommend.",Negative,-0.6216075646787662,84.0,Aesthetics,Tablet,Office,0.0
+,2024-01-16,Afternoon_Activity,The design is visually appealing but functionality needs work.,Neutral,0.3538577257706676,9.0,Performance,Mobile,Other,0.0
+P0197,2024-01-30,Weekly_Summary,"Overall positive experience, would recommend.",Negative,-0.2691119877752293,24.0,Value,Mobile,Office,0.0
+P0198,2024-01-21,Weekly_Summary,"Overall positive experience, would recommend.",Mixed,0.5940269722665926,73.0,Value,Desktop,,1.0
+P0199,2024-01-29,Evening_Reflection,Frustrated with the number of steps required.,Mixed,0.7877218859730551,59.0,Usability,Desktop,Office,0.0
+P0200,2024-01-12,Afternoon_Activity,"Overall positive experience, would recommend.",,-0.6812760331765424,52.0,Emotional_Response,Desktop,Transit,1.0
